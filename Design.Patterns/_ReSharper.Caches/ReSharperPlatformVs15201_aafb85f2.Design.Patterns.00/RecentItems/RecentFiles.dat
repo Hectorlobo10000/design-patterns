@@ -7,11 +7,17 @@
     <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:Squeak.cs" caret="199" fromTop="12" />
     <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:FlyNoWay.cs" caret="198" fromTop="12" />
     <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:Quack.cs" caret="195" fromTop="11" />
-    <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:Duck.cs" caret="841" fromTop="20" />
     <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:FlyRocketPowered.cs" caret="4" fromTop="1" />
     <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:Program.cs" caret="933" fromTop="16" />
-    <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:MallardDuck.cs" caret="225" fromTop="11" />
     <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:ModelDuck.cs" caret="216" fromTop="10" />
+    <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:MallardDuck.cs" caret="225" fromTop="11" />
+    <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:Duck.cs" caret="841" fromTop="20" />
+    <File id="D47FCFFE-CAC1-494E-898E-D508B71221D3/f:IObserver.cs" caret="0" fromTop="0" />
+    <File id="D47FCFFE-CAC1-494E-898E-D508B71221D3/f:IDisplayElement.cs" caret="2" fromTop="1" />
+    <File id="D47FCFFE-CAC1-494E-898E-D508B71221D3/f:Program.cs" caret="921" fromTop="21" />
+    <File id="D47FCFFE-CAC1-494E-898E-D508B71221D3/f:WeatherData.cs" caret="1294" fromTop="4" />
+    <File id="D47FCFFE-CAC1-494E-898E-D508B71221D3/f:CurrentConditionsDisplay.cs" caret="311" fromTop="8" />
+    <File id="D47FCFFE-CAC1-494E-898E-D508B71221D3/f:ISubject.cs" caret="118" fromTop="4" />
   </RecentFiles>
   <RecentEdits>
     <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:Program.cs" caret="449" fromTop="15" />
@@ -40,5 +46,17 @@
     <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:Program.cs" caret="994" fromTop="16" />
     <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:Program.cs" caret="777" fromTop="10" />
     <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:Program.cs" caret="926" fromTop="16" />
+    <File id="D47FCFFE-CAC1-494E-898E-D508B71221D3/f:Program.cs" caret="490" fromTop="14" />
+    <File id="D47FCFFE-CAC1-494E-898E-D508B71221D3/f:ISubject.cs" caret="134" fromTop="5" />
+    <File id="D47FCFFE-CAC1-494E-898E-D508B71221D3/f:ISubject.cs" caret="211" fromTop="9" />
+    <File id="D47FCFFE-CAC1-494E-898E-D508B71221D3/f:Program.cs" caret="916" fromTop="24" />
+    <File id="D47FCFFE-CAC1-494E-898E-D508B71221D3/f:Program.cs" caret="916" fromTop="17" />
+    <File id="D47FCFFE-CAC1-494E-898E-D508B71221D3/f:Program.cs" caret="916" fromTop="25" />
+    <File id="D47FCFFE-CAC1-494E-898E-D508B71221D3/f:Program.cs" caret="921" fromTop="18" />
+    <File id="D47FCFFE-CAC1-494E-898E-D508B71221D3/f:WeatherData.cs" caret="1294" fromTop="19" />
+    <File id="D47FCFFE-CAC1-494E-898E-D508B71221D3/f:WeatherData.cs" caret="1294" fromTop="26" />
+    <File id="D47FCFFE-CAC1-494E-898E-D508B71221D3/f:Program.cs" caret="861" fromTop="23" />
+    <File id="D47FCFFE-CAC1-494E-898E-D508B71221D3/f:WeatherData.cs" caret="1295" fromTop="4" />
+    <File id="D47FCFFE-CAC1-494E-898E-D508B71221D3/f:CurrentConditionsDisplay.cs" caret="367" fromTop="13" />
   </RecentEdits>
 </RecentFiles>

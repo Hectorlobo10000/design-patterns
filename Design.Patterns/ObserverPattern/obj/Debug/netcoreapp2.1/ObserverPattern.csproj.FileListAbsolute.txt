@@ -1,0 +1,11 @@
+C:\projects\design-patterns\Design.Patterns\ObserverPattern\bin\Debug\netcoreapp2.1\ObserverPattern.deps.json
+C:\projects\design-patterns\Design.Patterns\ObserverPattern\bin\Debug\netcoreapp2.1\ObserverPattern.runtimeconfig.json
+C:\projects\design-patterns\Design.Patterns\ObserverPattern\bin\Debug\netcoreapp2.1\ObserverPattern.runtimeconfig.dev.json
+C:\projects\design-patterns\Design.Patterns\ObserverPattern\bin\Debug\netcoreapp2.1\ObserverPattern.dll
+C:\projects\design-patterns\Design.Patterns\ObserverPattern\bin\Debug\netcoreapp2.1\ObserverPattern.pdb
+C:\projects\design-patterns\Design.Patterns\ObserverPattern\obj\Debug\netcoreapp2.1\ObserverPattern.csprojAssemblyReference.cache
+C:\projects\design-patterns\Design.Patterns\ObserverPattern\obj\Debug\netcoreapp2.1\ObserverPattern.csproj.CoreCompileInputs.cache
+C:\projects\design-patterns\Design.Patterns\ObserverPattern\obj\Debug\netcoreapp2.1\ObserverPattern.AssemblyInfoInputs.cache
+C:\projects\design-patterns\Design.Patterns\ObserverPattern\obj\Debug\netcoreapp2.1\ObserverPattern.AssemblyInfo.cs
+C:\projects\design-patterns\Design.Patterns\ObserverPattern\obj\Debug\netcoreapp2.1\ObserverPattern.dll
+C:\projects\design-patterns\Design.Patterns\ObserverPattern\obj\Debug\netcoreapp2.1\ObserverPattern.pdb
