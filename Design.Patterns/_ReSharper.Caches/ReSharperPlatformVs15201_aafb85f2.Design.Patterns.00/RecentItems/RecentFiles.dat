@@ -1,4 +1,44 @@
 ﻿<RecentFiles>
-  <RecentFiles />
-  <RecentEdits />
+  <RecentFiles>
+    <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:IFlyBehavior.cs" caret="100" fromTop="7" />
+    <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:IQuackBehavior.cs" caret="105" fromTop="6" />
+    <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:MuteQuack.cs" caret="206" fromTop="12" />
+    <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:FlyWithWings.cs" caret="206" fromTop="11" />
+    <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:Squeak.cs" caret="199" fromTop="12" />
+    <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:FlyNoWay.cs" caret="198" fromTop="12" />
+    <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:Quack.cs" caret="195" fromTop="11" />
+    <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:Duck.cs" caret="841" fromTop="20" />
+    <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:FlyRocketPowered.cs" caret="4" fromTop="1" />
+    <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:Program.cs" caret="933" fromTop="16" />
+    <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:MallardDuck.cs" caret="225" fromTop="11" />
+    <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:ModelDuck.cs" caret="216" fromTop="10" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:Program.cs" caret="449" fromTop="15" />
+    <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:Program.cs" caret="1145" fromTop="23" />
+    <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:IFlyBehavior.cs" caret="101" fromTop="7" />
+    <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:IQuackBehavior.cs" caret="105" fromTop="8" />
+    <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:IQuackBehavior.cs" caret="93" fromTop="3" />
+    <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:Quack.cs" caret="195" fromTop="12" />
+    <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:Quack.cs" caret="196" fromTop="11" />
+    <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:Squeak.cs" caret="199" fromTop="13" />
+    <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:Squeak.cs" caret="200" fromTop="12" />
+    <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:MuteQuack.cs" caret="206" fromTop="13" />
+    <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:MuteQuack.cs" caret="207" fromTop="12" />
+    <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:FlyWithWings.cs" caret="0" fromTop="0" />
+    <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:FlyWithWings.cs" caret="206" fromTop="12" />
+    <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:FlyWithWings.cs" caret="207" fromTop="11" />
+    <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:FlyNoWay.cs" caret="198" fromTop="25" />
+    <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:Duck.cs" caret="150" fromTop="7" />
+    <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:MallardDuck.cs" caret="225" fromTop="11" />
+    <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:Program.cs" caret="123" fromTop="7" />
+    <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:Duck.cs" caret="830" fromTop="19" />
+    <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:Program.cs" caret="1142" fromTop="21" />
+    <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:Program.cs" caret="1145" fromTop="20" />
+    <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:FlyRocketPowered.cs" caret="2" fromTop="1" />
+    <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:Program.cs" caret="1086" fromTop="20" />
+    <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:Program.cs" caret="994" fromTop="16" />
+    <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:Program.cs" caret="777" fromTop="10" />
+    <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:Program.cs" caret="926" fromTop="16" />
+  </RecentEdits>
 </RecentFiles>
