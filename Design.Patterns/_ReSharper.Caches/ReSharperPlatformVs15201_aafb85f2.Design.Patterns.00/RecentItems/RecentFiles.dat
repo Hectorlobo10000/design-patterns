@@ -15,18 +15,20 @@
     <File id="D47FCFFE-CAC1-494E-898E-D508B71221D3/f:IObserver.cs" caret="0" fromTop="0" />
     <File id="D47FCFFE-CAC1-494E-898E-D508B71221D3/f:IDisplayElement.cs" caret="2" fromTop="1" />
     <File id="D47FCFFE-CAC1-494E-898E-D508B71221D3/f:Program.cs" caret="921" fromTop="21" />
-    <File id="D47FCFFE-CAC1-494E-898E-D508B71221D3/f:WeatherData.cs" caret="1294" fromTop="4" />
     <File id="D47FCFFE-CAC1-494E-898E-D508B71221D3/f:CurrentConditionsDisplay.cs" caret="311" fromTop="8" />
-    <File id="D47FCFFE-CAC1-494E-898E-D508B71221D3/f:ISubject.cs" caret="118" fromTop="4" />
+    <File id="D47FCFFE-CAC1-494E-898E-D508B71221D3/f:ISubject.cs" caret="118" fromTop="3" />
+    <File id="D47FCFFE-CAC1-494E-898E-D508B71221D3/f:WeatherData.cs" caret="1294" fromTop="4" />
+    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:CondimentDecorator.cs" caret="140" fromTop="5" />
+    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:Expresso.cs" caret="261" fromTop="14" />
+    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:Soy.cs" caret="113" fromTop="6" />
+    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:Whip.cs" caret="132" fromTop="7" />
+    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:Beverage.cs" caret="241" fromTop="11" />
+    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:HouseBlend.cs" caret="86" fromTop="3" />
+    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:Mocha.cs" caret="203" fromTop="7" />
+    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:DarkRoast.cs" caret="277" fromTop="12" />
+    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:Program.cs" caret="1223" fromTop="27" />
   </RecentFiles>
   <RecentEdits>
-    <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:Program.cs" caret="449" fromTop="15" />
-    <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:Program.cs" caret="1145" fromTop="23" />
-    <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:IFlyBehavior.cs" caret="101" fromTop="7" />
-    <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:IQuackBehavior.cs" caret="105" fromTop="8" />
-    <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:IQuackBehavior.cs" caret="93" fromTop="3" />
-    <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:Quack.cs" caret="195" fromTop="12" />
-    <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:Quack.cs" caret="196" fromTop="11" />
     <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:Squeak.cs" caret="199" fromTop="13" />
     <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:Squeak.cs" caret="200" fromTop="12" />
     <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:MuteQuack.cs" caret="206" fromTop="13" />
@@ -58,5 +60,34 @@
     <File id="D47FCFFE-CAC1-494E-898E-D508B71221D3/f:Program.cs" caret="861" fromTop="23" />
     <File id="D47FCFFE-CAC1-494E-898E-D508B71221D3/f:WeatherData.cs" caret="1295" fromTop="4" />
     <File id="D47FCFFE-CAC1-494E-898E-D508B71221D3/f:CurrentConditionsDisplay.cs" caret="367" fromTop="13" />
+    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:Program.cs" caret="1223" fromTop="16" />
+    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:Beverage.cs" caret="294" fromTop="15" />
+    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:CondimentDecorator.cs" caret="154" fromTop="11" />
+    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:CondimentDecorator.cs" caret="154" fromTop="12" />
+    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:Expresso.cs" caret="260" fromTop="18" />
+    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:Expresso.cs" caret="261" fromTop="13" />
+    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:HouseBlend.cs" caret="273" fromTop="19" />
+    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:HouseBlend.cs" caret="273" fromTop="15" />
+    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:HouseBlend.cs" caret="273" fromTop="19" />
+    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:Mocha.cs" caret="484" fromTop="22" />
+    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:HouseBlend.cs" caret="273" fromTop="18" />
+    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:HouseBlend.cs" caret="274" fromTop="13" />
+    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:Whip.cs" caret="442" fromTop="19" />
+    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:Mocha.cs" caret="484" fromTop="18" />
+    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:Mocha.cs" caret="484" fromTop="23" />
+    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:Mocha.cs" caret="485" fromTop="10" />
+    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:CondimentDecorator.cs" caret="145" fromTop="5" />
+    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:DarkRoast.cs" caret="179" fromTop="9" />
+    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:Program.cs" caret="758" fromTop="13" />
+    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:Program.cs" caret="1166" fromTop="22" />
+    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:Program.cs" caret="528" fromTop="8" />
+    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:Mocha.cs" caret="344" fromTop="15" />
+    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:Soy.cs" caret="344" fromTop="15" />
+    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:Whip.cs" caret="348" fromTop="16" />
+    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:Mocha.cs" caret="115" fromTop="6" />
+    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:Soy.cs" caret="113" fromTop="6" />
+    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:Whip.cs" caret="116" fromTop="7" />
+    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:Beverage.cs" caret="105" fromTop="6" />
+    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:Program.cs" caret="772" fromTop="14" />
   </RecentEdits>
 </RecentFiles>
