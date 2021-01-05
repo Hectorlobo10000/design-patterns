@@ -1,0 +1,4 @@
+2021/01/05-09:38:01.959 1a74 Delete type=3 #1
+2021/01/05-09:38:59.422 2a54 Level-0 table #5: started
+2021/01/05-09:38:59.808 2a54 Level-0 table #5: 6051749 bytes OK
+2021/01/05-09:38:59.808 2a54 Waiting after background compaction error: IO error: Deleting DB during memtable compaction
