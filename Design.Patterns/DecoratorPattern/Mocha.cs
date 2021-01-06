@@ -16,9 +16,9 @@ namespace DecoratorPattern
             return _beverage.GetDescription() + ", Mocha";
         }
 
-        public override double cost()
+        public override double Cost()
         {
-            return .20 + _beverage.cost();
+            return .20 + _beverage.Cost();
         }
     }
 }

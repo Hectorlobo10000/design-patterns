@@ -7,7 +7,12 @@
             Description = "House blend coffee";
         }
 
-        public override double cost()
+        public override string GetDescription()
+        {
+            return Description;
+        }
+
+        public override double Cost()
         {
             return .89;
         }

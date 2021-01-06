@@ -7,7 +7,12 @@
             Description = "Expresso";
         }
 
-        public override double cost()
+        public override string GetDescription()
+        {
+            return Description;
+        }
+
+        public override double Cost()
         {
             return 1.99;
         }

@@ -10,7 +10,12 @@ namespace DecoratorPattern
             Description = "DarkRoast coffe";
         }
 
-        public override double cost()
+        public override string GetDescription()
+        {
+            return Description;
+        }
+
+        public override double Cost()
         {
             return .99;
         }

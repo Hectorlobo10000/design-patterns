@@ -16,9 +16,9 @@ namespace DecoratorPattern
             return _beverage.GetDescription() + ", Soy";
         }
 
-        public override double cost()
+        public override double Cost()
         {
-            return .15 + _beverage.cost();
+            return .15 + _beverage.Cost();
         }
     }
 }

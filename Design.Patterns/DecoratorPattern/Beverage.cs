@@ -6,11 +6,8 @@ namespace DecoratorPattern
     {
         public string Description = "Unknow Beverage";
 
-        public string GetDescription()
-        {
-            return Description;
-        }
+        public abstract string GetDescription();
 
-        public abstract Double cost();
+        public abstract Double Cost();
     }
 }

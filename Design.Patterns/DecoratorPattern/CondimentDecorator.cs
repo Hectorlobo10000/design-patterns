@@ -1,8 +1,11 @@
 ﻿
+using System;
+
 namespace DecoratorPattern
 {
     public abstract class CondimentDecorator : Beverage
     {
-        public abstract string GetDescription();
+        public abstract override string GetDescription();
+        public abstract override Double Cost();
     }
 }
