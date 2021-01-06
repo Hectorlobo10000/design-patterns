@@ -5,7 +5,7 @@ namespace DecoratorPattern
 {
     public class Whip : CondimentDecorator
     {
-        private Beverage _beverage;
+        private readonly Beverage _beverage;
 
         public Whip(Beverage beverage)
         {
@@ -14,7 +14,7 @@ namespace DecoratorPattern
 
         public override string GetDescription()
         {
-            return _beverage.GetDescription() + ", Whip";
+            return $"{_beverage.GetDescription()}, Whip";
         }
 
         public override double Cost()

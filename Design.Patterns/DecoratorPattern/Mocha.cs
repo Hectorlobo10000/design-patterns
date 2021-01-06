@@ -4,7 +4,7 @@ namespace DecoratorPattern
 {
     public class Mocha : CondimentDecorator
     {
-        private Beverage _beverage;
+        private readonly Beverage _beverage;
 
         public Mocha(Beverage beverage)
         {
@@ -13,7 +13,7 @@ namespace DecoratorPattern
 
         public override string GetDescription()
         {
-            return _beverage.GetDescription() + ", Mocha";
+            return $"{_beverage.GetDescription()}, Mocha";
         }
 
         public override double Cost()

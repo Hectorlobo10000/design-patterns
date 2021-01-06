@@ -4,7 +4,7 @@ namespace DecoratorPattern
 {
     public class Soy : CondimentDecorator
     {
-        private Beverage _beverage;
+        private readonly Beverage _beverage;
 
         public Soy(Beverage beverage)
         {
@@ -13,7 +13,7 @@ namespace DecoratorPattern
 
         public override string GetDescription()
         {
-            return _beverage.GetDescription() + ", Soy";
+            return $"{_beverage.GetDescription()}, Soy";
         }
 
         public override double Cost()

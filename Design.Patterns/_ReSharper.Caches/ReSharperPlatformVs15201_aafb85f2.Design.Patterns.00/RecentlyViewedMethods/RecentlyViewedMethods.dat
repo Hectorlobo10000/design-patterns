@@ -1,13 +1,15 @@
 ﻿<RecentlyViewedMethods>
   <RecentlyViewedMethods>
-    <RecentMethod id="26b88d75-345d-4ae9-af4e-114b221ec393%28DecoratorPattern%29-36918508%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3ADecoratorPattern.Program.Main%28System.String%5B%5D%29" />
-    <RecentMethod id="26b88d75-345d-4ae9-af4e-114b221ec393%28DecoratorPattern%29-36918508%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3ADecoratorPattern.Program.Main%28System.String%5B%5D%29" />
-    <RecentMethod id="26b88d75-345d-4ae9-af4e-114b221ec393%28DecoratorPattern%29-36918508%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3ADecoratorPattern.DarkRoast.Cost" />
-    <RecentMethod id="26b88d75-345d-4ae9-af4e-114b221ec393%28DecoratorPattern%29-36918508%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3ADecoratorPattern.Mocha.Cost" />
-    <RecentMethod id="26b88d75-345d-4ae9-af4e-114b221ec393%28DecoratorPattern%29-36918508%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3ADecoratorPattern.Mocha.%23ctor%28DecoratorPattern.Beverage%29" />
-    <RecentMethod id="26b88d75-345d-4ae9-af4e-114b221ec393%28DecoratorPattern%29-36918508%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3ADecoratorPattern.Whip.%23ctor%28DecoratorPattern.Beverage%29" />
-    <RecentMethod id="26b88d75-345d-4ae9-af4e-114b221ec393%28DecoratorPattern%29-36918508%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3ADecoratorPattern.Mocha.GetDescription" />
-    <RecentMethod id="26b88d75-345d-4ae9-af4e-114b221ec393%28DecoratorPattern%29-36918508%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3ADecoratorPattern.HouseBlend.Cost" />
+    <RecentMethod id="26b88d75-345d-4ae9-af4e-114b221ec393%28DecoratorPattern%29-36918508%5B.NETCoreApp%2CVersion%3Dv2.1%5D/F%3ADecoratorPattern.Soy._beverage" />
+    <RecentMethod id="26b88d75-345d-4ae9-af4e-114b221ec393%28DecoratorPattern%29-36918508%5B.NETCoreApp%2CVersion%3Dv2.1%5D/F%3ADecoratorPattern.Whip._beverage" />
+    <RecentMethod id="26b88d75-345d-4ae9-af4e-114b221ec393%28DecoratorPattern%29-36918508%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3ADecoratorPattern.Soy.GetDescription" />
     <RecentMethod id="26b88d75-345d-4ae9-af4e-114b221ec393%28DecoratorPattern%29-36918508%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3ADecoratorPattern.Beverage.Cost" />
+    <RecentMethod id="26b88d75-345d-4ae9-af4e-114b221ec393%28DecoratorPattern%29-36918508%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3ADecoratorPattern.HouseBlend.Cost" />
+    <RecentMethod id="26b88d75-345d-4ae9-af4e-114b221ec393%28DecoratorPattern%29-36918508%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3ADecoratorPattern.Mocha.GetDescription" />
+    <RecentMethod id="26b88d75-345d-4ae9-af4e-114b221ec393%28DecoratorPattern%29-36918508%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3ADecoratorPattern.Whip.%23ctor%28DecoratorPattern.Beverage%29" />
+    <RecentMethod id="26b88d75-345d-4ae9-af4e-114b221ec393%28DecoratorPattern%29-36918508%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3ADecoratorPattern.Mocha.%23ctor%28DecoratorPattern.Beverage%29" />
+    <RecentMethod id="26b88d75-345d-4ae9-af4e-114b221ec393%28DecoratorPattern%29-36918508%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3ADecoratorPattern.Mocha.Cost" />
+    <RecentMethod id="26b88d75-345d-4ae9-af4e-114b221ec393%28DecoratorPattern%29-36918508%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3ADecoratorPattern.DarkRoast.Cost" />
+    <RecentMethod id="26b88d75-345d-4ae9-af4e-114b221ec393%28DecoratorPattern%29-36918508%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3ADecoratorPattern.Program.Main%28System.String%5B%5D%29" />
   </RecentlyViewedMethods>
 </RecentlyViewedMethods>
