@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "9J9DM4VeMdduwOLok+d0vEsW1U+IMSu7gM6hijY7TLH+YV/m6/H2D8YI76tis+J9//UN3Hg1mfCf6BjkQNvU2w==",
+  "success": true,
+  "projectFilePath": "/home/mr_robot/Projects/design-patterns/Design.Patterns/DecoratorPattern/DecoratorPattern.csproj",
+  "expectedPackageFiles": [
+    "/home/mr_robot/.nuget/packages/microsoft.netcore.app/2.1.0/microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "/home/mr_robot/.nuget/packages/microsoft.netcore.dotnetapphost/2.1.0/microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "/home/mr_robot/.nuget/packages/microsoft.netcore.dotnethostpolicy/2.1.0/microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "/home/mr_robot/.nuget/packages/microsoft.netcore.dotnethostresolver/2.1.0/microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "/home/mr_robot/.nuget/packages/microsoft.netcore.platforms/2.1.0/microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "/home/mr_robot/.nuget/packages/microsoft.netcore.targets/2.1.0/microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "/home/mr_robot/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

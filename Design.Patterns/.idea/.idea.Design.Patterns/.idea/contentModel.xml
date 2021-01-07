@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.2/resharper-host/local/Transient/Rider/v202/SolutionCaches/_Design.Patterns.1734946039.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="DecoratorPattern" t="IncludeRecursive">
+        <e p="Beverage.cs" t="Include" />
+        <e p="CondimentDecorator.cs" t="Include" />
+        <e p="DarkRoast.cs" t="Include" />
+        <e p="DecoratorPattern.csproj" t="IncludeRecursive" />
+        <e p="Expresso.cs" t="Include" />
+        <e p="HouseBlend.cs" t="Include" />
+        <e p="Mocha.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Soy.cs" t="Include" />
+        <e p="Whip.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="DecoratorPattern.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Design.Patterns.sln" t="IncludeFlat" />
+      <e p="FactoryPattern" t="IncludeRecursive">
+        <e p="CheesePizza.cs" t="Include" />
+        <e p="ClamPizza.cs" t="Include" />
+        <e p="FactoryPattern.csproj" t="IncludeRecursive" />
+        <e p="Pepperoni.cs" t="Include" />
+        <e p="Pizza.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="SimpleFactory.cs" t="Include" />
+        <e p="VeggiePizza.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="FactoryPattern.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="ObserverPattern" t="IncludeRecursive">
+        <e p="CurrentConditionsDisplay.cs" t="Include" />
+        <e p="IDisplayElement.cs" t="Include" />
+        <e p="IObserver.cs" t="Include" />
+        <e p="ISubject.cs" t="Include" />
+        <e p="ObserverPattern.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="WeatherData.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="ObserverPattern.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="StrategyPattern" t="IncludeRecursive">
+        <e p="Duck.cs" t="Include" />
+        <e p="FlyNoWay.cs" t="Include" />
+        <e p="FlyRocketPowered.cs" t="Include" />
+        <e p="FlyWithWings.cs" t="Include" />
+        <e p="IFlyBehavior.cs" t="Include" />
+        <e p="IQuackBehavior.cs" t="Include" />
+        <e p="MallardDuck.cs" t="Include" />
+        <e p="ModelDuck.cs" t="Include" />
+        <e p="MuteQuack.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Quack.cs" t="Include" />
+        <e p="Squeak.cs" t="Include" />
+        <e p="StrategyPattern.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="StrategyPattern.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

@@ -1,6 +1,6 @@
-﻿namespace FactoryPattern
+namespace FactoryPattern
 {
-    public class CheesePizza : Pizza
+    public class ClamPizza : Pizza
     {
         public override void prepare()
         {
