@@ -1,81 +1,22 @@
 ﻿<RecentFiles>
   <RecentFiles>
-    <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:IQuackBehavior.cs" caret="105" fromTop="6" />
-    <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:MuteQuack.cs" caret="206" fromTop="12" />
-    <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:FlyWithWings.cs" caret="206" fromTop="11" />
-    <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:Squeak.cs" caret="199" fromTop="12" />
-    <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:FlyNoWay.cs" caret="198" fromTop="12" />
-    <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:Quack.cs" caret="195" fromTop="11" />
-    <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:FlyRocketPowered.cs" caret="4" fromTop="1" />
-    <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:Program.cs" caret="933" fromTop="16" />
-    <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:ModelDuck.cs" caret="216" fromTop="10" />
-    <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:MallardDuck.cs" caret="225" fromTop="11" />
-    <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:Duck.cs" caret="841" fromTop="20" />
-    <File id="D47FCFFE-CAC1-494E-898E-D508B71221D3/f:IObserver.cs" caret="0" fromTop="0" />
-    <File id="D47FCFFE-CAC1-494E-898E-D508B71221D3/f:IDisplayElement.cs" caret="2" fromTop="1" />
-    <File id="D47FCFFE-CAC1-494E-898E-D508B71221D3/f:Program.cs" caret="921" fromTop="21" />
-    <File id="D47FCFFE-CAC1-494E-898E-D508B71221D3/f:CurrentConditionsDisplay.cs" caret="311" fromTop="8" />
-    <File id="D47FCFFE-CAC1-494E-898E-D508B71221D3/f:ISubject.cs" caret="118" fromTop="3" />
-    <File id="D47FCFFE-CAC1-494E-898E-D508B71221D3/f:WeatherData.cs" caret="1294" fromTop="4" />
-    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:Program.cs" caret="477" fromTop="6" />
-    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:CondimentDecorator.cs" caret="230" fromTop="10" />
-    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:Expresso.cs" caret="257" fromTop="11" />
-    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:HouseBlend.cs" caret="178" fromTop="7" />
-    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:Whip.cs" caret="152" fromTop="4" />
-    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:Soy.cs" caret="149" fromTop="6" />
-    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:DarkRoast.cs" caret="285" fromTop="14" />
-    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:Mocha.cs" caret="379" fromTop="15" />
-    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:Beverage.cs" caret="109" fromTop="6" />
-    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/f:Program.cs" caret="190" fromTop="12" />
-    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/f:Pizza.cs" caret="2" fromTop="1" />
-    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/f:SimpleFactory.cs" caret="321" fromTop="17" />
-    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/f:CheesePizza.cs" caret="82" fromTop="5" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:FactoryMethod/d:Pizzas/f:ChicagoStyleVeggiePizza.cs" caret="0" fromTop="0" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:FactoryMethod/d:Pizzas/f:NyStyleVeggiePizza.cs" caret="0" fromTop="0" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:FactoryMethod/d:Pizzas/f:NyStylePepperoniPizza.cs" caret="0" fromTop="0" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:FactoryMethod/d:Pizzas/f:NyStyleClamPizza.cs" caret="0" fromTop="0" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:FactoryMethod/d:Pizzas/f:ChigacoStyleClamPizza.cs" caret="0" fromTop="0" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:FactoryMethod/d:Stores/f:NyStylePizzaStore.cs" caret="655" fromTop="16" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:FactoryMethod/d:Stores/f:ChigacoStylePizzaStore.cs" caret="3" fromTop="0" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:FactoryMethod/d:Pizzas/f:NYStyleCheesePizza.cs" caret="93" fromTop="2" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:FactoryMethod/d:Pizzas/f:ChicagoStyleCheesePizza.cs" caret="0" fromTop="0" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:SimpleFactory/f:SimpleFactory.cs" caret="652" fromTop="10" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:FactoryMethod/d:Pizzas/f:ChicagoStylePepperoniPizza.cs" caret="0" fromTop="0" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:FactoryMethod/d:Pizzas/f:Pizza.cs" caret="1166" fromTop="27" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:SimpleFactory/f:VeggiePizza.cs" caret="184" fromTop="9" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:FactoryMethod/d:Stores/f:PizzaStore.cs" caret="0" fromTop="0" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/f:Program.cs" caret="654" fromTop="10" />
   </RecentFiles>
   <RecentEdits>
-    <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:Program.cs" caret="994" fromTop="16" />
-    <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:Program.cs" caret="777" fromTop="10" />
-    <File id="FD2D911D-031C-428E-B9B8-9656257B7DCD/f:Program.cs" caret="926" fromTop="16" />
-    <File id="D47FCFFE-CAC1-494E-898E-D508B71221D3/f:Program.cs" caret="490" fromTop="14" />
-    <File id="D47FCFFE-CAC1-494E-898E-D508B71221D3/f:ISubject.cs" caret="134" fromTop="5" />
-    <File id="D47FCFFE-CAC1-494E-898E-D508B71221D3/f:ISubject.cs" caret="211" fromTop="9" />
-    <File id="D47FCFFE-CAC1-494E-898E-D508B71221D3/f:Program.cs" caret="916" fromTop="24" />
-    <File id="D47FCFFE-CAC1-494E-898E-D508B71221D3/f:Program.cs" caret="916" fromTop="17" />
-    <File id="D47FCFFE-CAC1-494E-898E-D508B71221D3/f:Program.cs" caret="916" fromTop="25" />
-    <File id="D47FCFFE-CAC1-494E-898E-D508B71221D3/f:Program.cs" caret="921" fromTop="18" />
-    <File id="D47FCFFE-CAC1-494E-898E-D508B71221D3/f:WeatherData.cs" caret="1294" fromTop="19" />
-    <File id="D47FCFFE-CAC1-494E-898E-D508B71221D3/f:WeatherData.cs" caret="1294" fromTop="26" />
-    <File id="D47FCFFE-CAC1-494E-898E-D508B71221D3/f:Program.cs" caret="861" fromTop="23" />
-    <File id="D47FCFFE-CAC1-494E-898E-D508B71221D3/f:WeatherData.cs" caret="1295" fromTop="4" />
-    <File id="D47FCFFE-CAC1-494E-898E-D508B71221D3/f:CurrentConditionsDisplay.cs" caret="367" fromTop="13" />
-    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:Program.cs" caret="1223" fromTop="16" />
-    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:CondimentDecorator.cs" caret="229" fromTop="11" />
-    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:CondimentDecorator.cs" caret="229" fromTop="12" />
-    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:Expresso.cs" caret="366" fromTop="18" />
-    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:Expresso.cs" caret="367" fromTop="13" />
-    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:HouseBlend.cs" caret="379" fromTop="19" />
-    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:HouseBlend.cs" caret="379" fromTop="15" />
-    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:HouseBlend.cs" caret="379" fromTop="19" />
-    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:Mocha.cs" caret="493" fromTop="22" />
-    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:HouseBlend.cs" caret="379" fromTop="18" />
-    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:HouseBlend.cs" caret="380" fromTop="13" />
-    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:Whip.cs" caret="493" fromTop="19" />
-    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:Mocha.cs" caret="493" fromTop="18" />
-    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:Mocha.cs" caret="493" fromTop="23" />
-    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:Mocha.cs" caret="494" fromTop="10" />
-    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:DarkRoast.cs" caret="179" fromTop="9" />
-    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:Program.cs" caret="772" fromTop="13" />
-    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:Program.cs" caret="1166" fromTop="22" />
-    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:Program.cs" caret="528" fromTop="8" />
-    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:Soy.cs" caret="488" fromTop="15" />
-    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:Whip.cs" caret="493" fromTop="16" />
-    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:Soy.cs" caret="488" fromTop="6" />
-    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:Whip.cs" caret="493" fromTop="7" />
-    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:Beverage.cs" caret="100" fromTop="6" />
-    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:Program.cs" caret="850" fromTop="15" />
-    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:Expresso.cs" caret="67" fromTop="2" />
-    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:Expresso.cs" caret="257" fromTop="11" />
-    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:Beverage.cs" caret="236" fromTop="7" />
-    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:CondimentDecorator.cs" caret="217" fromTop="8" />
     <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:DarkRoast.cs" caret="87" fromTop="5" />
     <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:DarkRoast.cs" caret="285" fromTop="14" />
     <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:HouseBlend.cs" caret="69" fromTop="2" />
@@ -88,9 +29,30 @@
     <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:Whip.cs" caret="143" fromTop="4" />
     <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:Soy.cs" caret="140" fromTop="6" />
     <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:Mocha.cs" caret="141" fromTop="6" />
-    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/f:Program.cs" caret="193" fromTop="12" />
-    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/f:SimpleFactory.cs" caret="83" fromTop="4" />
-    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/f:SimpleFactory.cs" caret="243" fromTop="10" />
-    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/f:SimpleFactory.cs" caret="322" fromTop="17" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/f:Program.cs" caret="1196" fromTop="12" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:SimpleFactory/f:SimpleFactory.cs" caret="97" fromTop="4" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:SimpleFactory/f:SimpleFactory.cs" caret="257" fromTop="10" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:SimpleFactory/f:SimpleFactory.cs" caret="336" fromTop="17" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:FactoryMethod/d:Pizzas/f:NYStyleCheesePizza.cs" caret="360" fromTop="21" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:FactoryMethod/d:Pizzas/f:NYStyleCheesePizza.cs" caret="361" fromTop="12" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:FactoryMethod/d:Pizzas/f:ChicagoStyleCheesePizza.cs" caret="0" fromTop="0" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:FactoryMethod/d:Stores/f:NyStylePizzaStore.cs" caret="610" fromTop="8" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:FactoryMethod/d:Stores/f:NyStylePizzaStore.cs" caret="610" fromTop="9" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:FactoryMethod/d:Pizzas/f:NYStyleCheesePizza.cs" caret="88" fromTop="2" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:FactoryMethod/d:Pizzas/f:Pizza.cs" caret="1166" fromTop="7" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:FactoryMethod/d:Stores/f:NyStylePizzaStore.cs" caret="653" fromTop="14" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:FactoryMethod/d:Stores/f:NyStylePizzaStore.cs" caret="653" fromTop="22" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:FactoryMethod/d:Stores/f:NyStylePizzaStore.cs" caret="555" fromTop="9" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:FactoryMethod/d:Stores/f:NyStylePizzaStore.cs" caret="244" fromTop="3" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:FactoryMethod/d:Stores/f:NyStylePizzaStore.cs" caret="655" fromTop="20" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:FactoryMethod/d:Stores/f:NyStylePizzaStore.cs" caret="655" fromTop="9" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:FactoryMethod/d:Stores/f:NyStylePizzaStore.cs" caret="655" fromTop="10" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:FactoryMethod/d:Stores/f:NyStylePizzaStore.cs" caret="477" fromTop="8" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:FactoryMethod/d:Stores/f:NyStylePizzaStore.cs" caret="656" fromTop="16" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/f:Program.cs" caret="1008" fromTop="17" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:SimpleFactory/f:SimpleFactory.cs" caret="705" fromTop="10" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:SimpleFactory/f:VeggiePizza.cs" caret="155" fromTop="6" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/f:Program.cs" caret="509" fromTop="6" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:FactoryMethod/d:Stores/f:PizzaStore.cs" caret="0" fromTop="0" />
   </RecentEdits>
 </RecentFiles>

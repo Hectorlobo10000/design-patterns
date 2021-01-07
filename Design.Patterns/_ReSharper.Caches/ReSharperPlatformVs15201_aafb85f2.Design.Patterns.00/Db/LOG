@@ -1,18 +1,64 @@
-2021/01/06-17:11:54.452 191c Recovering log #172
-2021/01/06-17:11:54.452 191c Level-0 table #179: started
-2021/01/06-17:11:54.490 191c Level-0 table #179: 28845 bytes OK
-2021/01/06-17:11:54.562 191c Delete type=0 #172
-2021/01/06-17:11:54.562 191c Delete type=3 #170
-2021/01/06-17:11:54.657 1be8 Compacting 1@0 + 0@1 files
-2021/01/06-17:11:54.738 1be8 Generated table #181: 62 keys, 18910 bytes
-2021/01/06-17:11:54.771 1be8 Generated table #182: 4 keys, 6406 bytes
-2021/01/06-17:11:54.771 1be8 Compacted 1@0 + 0@1 files => 25316 bytes
-2021/01/06-17:11:54.795 1be8 compacted to: files[ 0 2 37 0 0 0 0 ]
-2021/01/06-17:11:56.820 1be8 Compacting 1@1 + 1@2 files
-2021/01/06-17:11:57.207 1be8 Generated table #183: 4858 keys, 2168673 bytes
-2021/01/06-17:11:57.243 1be8 Generated table #184: 12 keys, 4242 bytes
-2021/01/06-17:11:57.243 1be8 Compacted 1@1 + 1@2 files => 2172915 bytes
-2021/01/06-17:11:57.262 1be8 Delete type=2 #176
-2021/01/06-17:11:57.263 1be8 Delete type=2 #179
-2021/01/06-17:11:57.263 1be8 Delete type=2 #181
-2021/01/06-17:11:57.263 1be8 compacted to: files[ 0 1 38 0 0 0 0 ]
+2021/01/07-10:18:46.058 1820 Recovering log #180
+2021/01/07-10:18:46.114 1820 Level-0 table #186: started
+2021/01/07-10:18:46.245 1820 Level-0 table #186: 484981 bytes OK
+2021/01/07-10:18:46.325 1820 Delete type=0 #180
+2021/01/07-10:18:46.325 1820 Delete type=3 #178
+2021/01/07-10:18:46.751 b14 Compacting 1@0 + 1@1 files
+2021/01/07-10:18:46.957 b14 Generated table #188: 905 keys, 213264 bytes
+2021/01/07-10:18:47.110 b14 Generated table #189: 173 keys, 36690 bytes
+2021/01/07-10:18:47.110 b14 Compacted 1@0 + 1@1 files => 249954 bytes
+2021/01/07-10:18:47.171 b14 compacted to: files[ 0 2 38 0 0 0 0 ]
+2021/01/07-10:18:47.208 b14 Compacting 1@1 + 1@2 files
+2021/01/07-10:18:47.907 b14 Generated table #190: 2084 keys, 1872378 bytes
+2021/01/07-10:18:47.907 b14 Compacted 1@1 + 1@2 files => 1872378 bytes
+2021/01/07-10:18:48.089 b14 Delete type=2 #182
+2021/01/07-10:18:48.090 b14 Delete type=2 #186
+2021/01/07-10:18:48.090 b14 compacted to: files[ 0 1 38 0 0 0 0 ]
+2021/01/07-10:18:49.771 b14 Compacting 1@1 + 1@2 files
+2021/01/07-10:18:51.175 b14 Generated table #191: 4814 keys, 2170158 bytes
+2021/01/07-10:18:51.291 b14 Generated table #192: 245 keys, 82879 bytes
+2021/01/07-10:18:51.291 b14 Compacted 1@1 + 1@2 files => 2253037 bytes
+2021/01/07-10:18:51.353 b14 Delete type=2 #175
+2021/01/07-10:18:51.355 b14 Delete type=2 #183
+2021/01/07-10:18:51.357 b14 Delete type=2 #188
+2021/01/07-10:18:51.357 b14 Delete type=2 #189
+2021/01/07-10:18:51.358 b14 compacted to: files[ 0 0 39 0 0 0 0 ]
+2021/01/07-10:46:45.097 b14 Level-0 table #194: started
+2021/01/07-10:46:45.458 b14 Level-0 table #194: 3071449 bytes OK
+2021/01/07-10:46:45.489 b14 Delete type=0 #187
+2021/01/07-10:46:58.072 b14 Compacting 1@0 + 0@1 files
+2021/01/07-10:46:58.184 b14 Generated table #195: 2263 keys, 475354 bytes
+2021/01/07-10:46:58.223 b14 Generated table #196: 294 keys, 67360 bytes
+2021/01/07-10:46:58.223 b14 Compacted 1@0 + 0@1 files => 542714 bytes
+2021/01/07-10:46:58.249 b14 Delete type=2 #194
+2021/01/07-10:46:58.250 b14 compacted to: files[ 0 2 39 0 0 0 0 ]
+2021/01/07-10:47:21.144 b14 Compacting 1@1 + 1@2 files
+2021/01/07-10:47:21.379 b14 Generated table #197: 4816 keys, 2168119 bytes
+2021/01/07-10:47:21.465 b14 Generated table #198: 201 keys, 65042 bytes
+2021/01/07-10:47:21.465 b14 Compacted 1@1 + 1@2 files => 2233161 bytes
+2021/01/07-10:47:21.503 b14 Delete type=2 #191
+2021/01/07-10:47:21.504 b14 Delete type=2 #195
+2021/01/07-10:47:21.504 b14 compacted to: files[ 0 1 40 0 0 0 0 ]
+2021/01/07-11:05:25.033 b14 Level-0 table #200: started
+2021/01/07-11:05:25.501 b14 Level-0 table #200: 3110953 bytes OK
+2021/01/07-11:05:25.525 b14 Delete type=0 #193
+2021/01/07-11:05:35.399 b14 Compacting 1@0 + 1@1 files
+2021/01/07-11:05:35.463 b14 Generated table #201: 411 keys, 57832 bytes
+2021/01/07-11:05:35.529 b14 Generated table #202: 394 keys, 85211 bytes
+2021/01/07-11:05:35.529 b14 Compacted 1@0 + 1@1 files => 143043 bytes
+2021/01/07-11:05:35.568 b14 Delete type=2 #196
+2021/01/07-11:05:35.568 b14 Delete type=2 #200
+2021/01/07-11:05:35.569 b14 compacted to: files[ 0 2 40 0 0 0 0 ]
+2021/01/07-11:05:38.419 b14 Compacting 1@1 + 1@2 files
+2021/01/07-11:05:38.689 b14 Generated table #203: 4804 keys, 2163217 bytes
+2021/01/07-11:05:38.736 b14 Generated table #204: 69 keys, 22316 bytes
+2021/01/07-11:05:38.736 b14 Compacted 1@1 + 1@2 files => 2185533 bytes
+2021/01/07-11:05:38.760 b14 Delete type=2 #197
+2021/01/07-11:05:38.761 b14 Delete type=2 #201
+2021/01/07-11:05:38.761 b14 compacted to: files[ 0 1 41 0 0 0 0 ]
+2021/01/07-12:11:22.302 b14 Compacting 1@1 + 1@2 files
+2021/01/07-12:11:22.599 b14 Generated table #205: 2153 keys, 1941312 bytes
+2021/01/07-12:11:22.599 b14 Compacted 1@1 + 1@2 files => 1941312 bytes
+2021/01/07-12:11:22.635 b14 Delete type=2 #190
+2021/01/07-12:11:22.636 b14 Delete type=2 #202
+2021/01/07-12:11:22.636 b14 compacted to: files[ 0 0 41 0 0 0 0 ]

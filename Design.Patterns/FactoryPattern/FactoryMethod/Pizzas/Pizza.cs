@@ -1,23 +1,23 @@
 using System;
 using System.Collections.Generic;
 
-namespace FactoryPattern.V1
+namespace FactoryPattern.FactoryMethod.Pizzas
 {
     public abstract class Pizza
     {
-        protected string name;
-        protected string dough;
-        protected string sauce;
-        protected List<string> toppings = new List<string>();
+        protected string Name;
+        protected string Dough;
+        protected string Sauce;
+        protected List<string> Toppings = new List<string>();
 
 
         public void Prepare()
         {
-            Console.WriteLine($"Preparing {name}");
+            Console.WriteLine($"Preparing {Name}");
             Console.WriteLine($"Tossing dough...");
             Console.WriteLine($"Adding sauce...");
             Console.WriteLine($"Addign toppings: ");
-            foreach (var topping in toppings)
+            foreach (var topping in Toppings)
             {
                 Console.WriteLine($" {topping}");
             }
@@ -28,7 +28,7 @@ namespace FactoryPattern.V1
             Console.WriteLine($"Bake for 25 minutes at 350");
         }
 
-        public void Cut()
+        public virtual void Cut()
         {
             Console.WriteLine($"Cutting the pizza into diagonal slices");
         }
@@ -40,7 +40,7 @@ namespace FactoryPattern.V1
 
         public string GetName()
         {
-            return name;
+            return Name;
         }
     }
 }

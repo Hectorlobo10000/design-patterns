@@ -1,12 +1,10 @@
-using System.Reflection.Emit;
-
-namespace FactoryPattern.V1
+namespace FactoryPattern.FactoryMethod.Stores
 {
     public abstract class PizzaStore
     {
-        public Pizza OrderPizza(string type)
+        public Pizzas.Pizza OrderPizza(string type)
         {
-            Pizza pizza;
+            Pizzas.Pizza pizza;
 
             pizza = CreatePizza(type);
 
@@ -18,6 +16,6 @@ namespace FactoryPattern.V1
             return pizza;
         }
 
-        protected abstract Pizza CreatePizza(string type);
+        protected abstract Pizzas.Pizza CreatePizza(string type);
     }
 }

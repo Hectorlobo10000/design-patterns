@@ -1,4 +1,4 @@
-﻿namespace FactoryPattern
+﻿namespace FactoryPattern.SimpleFactory
 {
     public class SimpleFactory
     {
@@ -21,30 +21,6 @@
             }
 
             return pizza;
-        }
-    }
-
-    public class PizzaStore
-    {
-        private SimpleFactory _factory;
-        public PizzaStore(SimpleFactory factory)
-        {
-            _factory = factory;
-        }
-
-        public Pizza OrderPizza(string type)
-        {
-            Pizza pizza;
-
-            pizza = _factory.CreatePizza(type);
-
-            pizza.prepare();
-            pizza.bake();
-            pizza.cut();
-            pizza.box();
-
-            return pizza;
-
         }
     }
 }
