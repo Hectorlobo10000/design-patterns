@@ -8,29 +8,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="53d9a651-9771-4905-8079-62839d13efa0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/DecoratorPattern/obj/Debug/netcoreapp2.1/DecoratorPattern.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DecoratorPattern/obj/Debug/netcoreapp2.1/DecoratorPattern.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DecoratorPattern/obj/DecoratorPattern.csproj.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DecoratorPattern/obj/DecoratorPattern.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/DecoratorPattern/obj/DecoratorPattern.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DecoratorPattern/obj/DecoratorPattern.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/DecoratorPattern/obj/DecoratorPattern.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DecoratorPattern/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/DecoratorPattern/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FactoryPattern/Pizza.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryPattern/Pizza.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FactoryPattern/SimpleFactory.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryPattern/SimpleFactory.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FactoryPattern/obj/Debug/netcoreapp2.1/FactoryPattern.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryPattern/obj/Debug/netcoreapp2.1/FactoryPattern.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FactoryPattern/obj/FactoryPattern.csproj.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FactoryPattern/obj/FactoryPattern.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryPattern/obj/FactoryPattern.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FactoryPattern/obj/FactoryPattern.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryPattern/obj/FactoryPattern.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FactoryPattern/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryPattern/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObserverPattern/obj/Debug/netcoreapp2.1/ObserverPattern.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ObserverPattern/obj/Debug/netcoreapp2.1/ObserverPattern.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObserverPattern/obj/ObserverPattern.csproj.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObserverPattern/obj/ObserverPattern.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ObserverPattern/obj/ObserverPattern.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObserverPattern/obj/ObserverPattern.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/ObserverPattern/obj/ObserverPattern.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObserverPattern/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ObserverPattern/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StrategyPattern/obj/Debug/netcoreapp2.1/StrategyPattern.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/StrategyPattern/obj/Debug/netcoreapp2.1/StrategyPattern.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StrategyPattern/obj/Debug/netcoreapp2.1/StrategyPattern.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/StrategyPattern/obj/Debug/netcoreapp2.1/StrategyPattern.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StrategyPattern/obj/StrategyPattern.csproj.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StrategyPattern/obj/StrategyPattern.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/StrategyPattern/obj/StrategyPattern.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StrategyPattern/obj/StrategyPattern.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/StrategyPattern/obj/StrategyPattern.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StrategyPattern/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/StrategyPattern/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Design.Patterns/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Design.Patterns/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Design.Patterns/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Design.Patterns/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,11 +27,16 @@
         <option value="$PROJECT_DIR$/FactoryPattern/Pepperoni.cs" />
         <option value="$PROJECT_DIR$/FactoryPattern/VeggiePizza.cs" />
         <option value="$PROJECT_DIR$/FactoryPattern/ClamPizza.cs" />
+        <option value="$PROJECT_DIR$/FactoryPattern/CheesePizza.cs" />
+        <option value="$PROJECT_DIR$/FactoryPattern/V1/PizzaStore.cs" />
+        <option value="$PROJECT_DIR$/FactoryPattern/V1/Pizza.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1mgJ0hwgbzN2njSDr5f69YHfHu3" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -144,7 +128,7 @@
       <option name="presentableId" value="Default" />
       <updated>1609909107935</updated>
       <workItem from="1609909128016" duration="597000" />
-      <workItem from="1609990236380" duration="951000" />
+      <workItem from="1609990236380" duration="2441000" />
     </task>
     <servers />
   </component>
@@ -157,9 +141,9 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="506" y="42" key="RiderGenerateDialog" timestamp="1609991165812">
+    <state x="506" y="42" key="RiderGenerateDialog" timestamp="1609991199249">
       <screen x="0" y="0" width="1366" height="700" />
     </state>
-    <state x="506" y="42" key="RiderGenerateDialog/0.0.1366.700@0.0.1366.700" timestamp="1609991165812" />
+    <state x="506" y="42" key="RiderGenerateDialog/0.0.1366.700@0.0.1366.700" timestamp="1609991199249" />
   </component>
 </project>

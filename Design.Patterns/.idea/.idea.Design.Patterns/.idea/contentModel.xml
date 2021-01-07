@@ -33,6 +33,10 @@
         <e p="Pizza.cs" t="Include" />
         <e p="Program.cs" t="Include" />
         <e p="SimpleFactory.cs" t="Include" />
+        <e p="V1" t="Include">
+          <e p="Pizza.cs" t="Include" />
+          <e p="PizzaStore.cs" t="Include" />
+        </e>
         <e p="VeggiePizza.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
