@@ -1,7 +1,7 @@
 ﻿
 using System;
 
-namespace FactoryPattern.SimpleFactory
+namespace FactoryPattern.SimplePizzaFactory
 {
     public abstract class Pizza
     {

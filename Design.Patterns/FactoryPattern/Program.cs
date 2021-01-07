@@ -1,7 +1,7 @@
 ﻿using System;
 using FactoryPattern.FactoryMethod.Stores;
-using FactoryPattern.SimpleFactory;
-using PizzaStore = FactoryPattern.SimpleFactory.PizzaStore;
+using FactoryPattern.SimplePizzaFactory;
+using PizzaStore = FactoryPattern.SimplePizzaFactory.PizzaStore;
 
 namespace FactoryPattern
 {
@@ -9,9 +9,17 @@ namespace FactoryPattern
     {
         static void Main(string[] args)
         {
-            /*Simple factory*/
-            SimpleFactory.SimpleFactory factory = new SimpleFactory.SimpleFactory();
-            PizzaStore pizzaStore = new PizzaStore(factory);
+
+            /*
+             *
+             * The Factory Method Pattern: defines an interface for creating an object, but lets subclasses decide which class to instantiate. Factory method lets a class defer instantiation to subclasses.
+             *
+             * Design Principle: Depend upon abstractions. Do not depend upon concrete classes.
+             *
+             */
+            /*Simple pizzaFactory*/
+            SimplePizzaFactory.SimplePizzaFactory pizzaFactory = new SimplePizzaFactory.SimplePizzaFactory();
+            PizzaStore pizzaStore = new PizzaStore(pizzaFactory);
 
             Pizza simplePizza = pizzaStore.OrderPizza("veggie");
             Console.WriteLine($"I ordered a {simplePizza.GetName()}");

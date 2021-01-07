@@ -1,18 +1,18 @@
-﻿namespace FactoryPattern.SimpleFactory
+﻿namespace FactoryPattern.SimplePizzaFactory
 {
     public class PizzaStore
     {
-        private SimpleFactory _factory;
-        public PizzaStore(SimpleFactory factory)
+        private SimplePizzaFactory _pizzaFactory;
+        public PizzaStore(SimplePizzaFactory pizzaFactory)
         {
-            _factory = factory;
+            _pizzaFactory = pizzaFactory;
         }
 
         public Pizza OrderPizza(string type)
         {
             Pizza pizza;
 
-            pizza = _factory.CreatePizza(type);
+            pizza = _pizzaFactory.CreatePizza(type);
 
             pizza.Prepare();
             pizza.Bake();

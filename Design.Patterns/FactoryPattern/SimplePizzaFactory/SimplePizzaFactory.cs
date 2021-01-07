@@ -1,6 +1,9 @@
-﻿namespace FactoryPattern.SimpleFactory
+﻿
+using FactoryPattern.SimplePizzaFactory;
+
+namespace FactoryPattern.SimplePizzaFactory
 {
-    public class SimpleFactory
+    public class SimplePizzaFactory
     {
         public Pizza CreatePizza(string type)
         {

@@ -1,4 +1,4 @@
-namespace FactoryPattern.SimpleFactory
+namespace FactoryPattern.SimplePizzaFactory
 {
     public class Pepperoni : Pizza
     {
