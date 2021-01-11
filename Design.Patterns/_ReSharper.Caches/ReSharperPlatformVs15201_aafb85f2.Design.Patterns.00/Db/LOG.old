@@ -1,46 +1,24 @@
-2021/01/07-14:25:21.224 2604 Recovering log #208
-2021/01/07-14:25:21.225 2604 Level-0 table #214: started
-2021/01/07-14:25:21.305 2604 Level-0 table #214: 241512 bytes OK
-2021/01/07-14:25:21.362 2604 Delete type=0 #208
-2021/01/07-14:25:21.362 2604 Delete type=3 #206
-2021/01/07-14:25:21.564 ec4 Compacting 1@0 + 0@1 files
-2021/01/07-14:25:21.752 ec4 Generated table #216: 409 keys, 60534 bytes
-2021/01/07-14:25:21.854 ec4 Generated table #217: 135 keys, 34993 bytes
-2021/01/07-14:25:21.854 ec4 Compacted 1@0 + 0@1 files => 95527 bytes
-2021/01/07-14:25:21.885 ec4 Delete type=2 #214
-2021/01/07-14:25:21.886 ec4 compacted to: files[ 0 2 41 0 0 0 0 ]
-2021/01/07-14:25:22.366 ec4 Compacting 1@1 + 1@2 files
-2021/01/07-14:25:22.683 ec4 Generated table #218: 2151 keys, 1937886 bytes
-2021/01/07-14:25:22.683 ec4 Compacted 1@1 + 1@2 files => 1937886 bytes
-2021/01/07-14:25:22.756 ec4 Delete type=2 #211
-2021/01/07-14:25:22.756 ec4 Delete type=2 #217
-2021/01/07-14:25:22.756 ec4 compacted to: files[ 0 1 41 0 0 0 0 ]
-2021/01/07-14:25:24.267 ec4 Compacting 1@1 + 1@2 files
-2021/01/07-14:25:24.638 ec4 Generated table #219: 4759 keys, 2166807 bytes
-2021/01/07-14:25:24.723 ec4 Generated table #220: 44 keys, 13229 bytes
-2021/01/07-14:25:24.723 ec4 Compacted 1@1 + 1@2 files => 2180036 bytes
-2021/01/07-14:25:24.752 ec4 Delete type=2 #212
-2021/01/07-14:25:24.753 ec4 Delete type=2 #216
-2021/01/07-14:25:24.753 ec4 compacted to: files[ 0 0 42 0 0 0 0 ]
-2021/01/07-15:25:39.353 ec4 Level-0 table #222: started
-2021/01/07-15:25:39.816 ec4 Level-0 table #222: 2848620 bytes OK
-2021/01/07-15:25:39.845 ec4 Delete type=0 #215
-2021/01/07-15:26:11.591 ec4 Compacting 1@0 + 0@1 files
-2021/01/07-15:26:11.675 ec4 Generated table #223: 274 keys, 52142 bytes
-2021/01/07-15:26:11.755 ec4 Generated table #224: 74 keys, 43546 bytes
-2021/01/07-15:26:11.755 ec4 Compacted 1@0 + 0@1 files => 95688 bytes
-2021/01/07-15:26:11.779 ec4 Delete type=2 #222
-2021/01/07-15:26:11.780 ec4 compacted to: files[ 0 2 42 0 0 0 0 ]
-2021/01/07-15:26:18.935 ec4 Compacting 1@1 + 1@2 files
-2021/01/07-15:26:19.230 ec4 Generated table #225: 2181 keys, 1973742 bytes
-2021/01/07-15:26:19.230 ec4 Compacted 1@1 + 1@2 files => 1973742 bytes
-2021/01/07-15:26:19.279 ec4 Delete type=2 #218
-2021/01/07-15:26:19.280 ec4 Delete type=2 #224
-2021/01/07-15:26:19.281 ec4 compacted to: files[ 0 1 42 0 0 0 0 ]
-2021/01/07-15:26:49.136 ec4 Compacting 1@1 + 1@2 files
-2021/01/07-15:26:49.376 ec4 Generated table #226: 4800 keys, 2164599 bytes
-2021/01/07-15:26:49.519 ec4 Generated table #227: 99 keys, 30351 bytes
-2021/01/07-15:26:49.520 ec4 Compacted 1@1 + 1@2 files => 2194950 bytes
-2021/01/07-15:26:49.606 ec4 Delete type=2 #219
-2021/01/07-15:26:49.607 ec4 Delete type=2 #223
-2021/01/07-15:26:49.607 ec4 compacted to: files[ 0 0 43 0 0 0 0 ]
+2021/01/11-14:56:59.587 21b8 Recovering log #221
+2021/01/11-14:56:59.617 21b8 Level-0 table #229: started
+2021/01/11-14:57:00.165 21b8 Level-0 table #229: 2298078 bytes OK
+2021/01/11-14:57:00.228 21b8 Delete type=0 #221
+2021/01/11-14:57:00.229 21b8 Delete type=3 #213
+2021/01/11-14:57:00.416 1d44 Compacting 1@0 + 0@1 files
+2021/01/11-14:57:00.610 1d44 Generated table #231: 473 keys, 93666 bytes
+2021/01/11-14:57:00.802 1d44 Generated table #232: 149 keys, 96583 bytes
+2021/01/11-14:57:00.802 1d44 Compacted 1@0 + 0@1 files => 190249 bytes
+2021/01/11-14:57:00.905 1d44 compacted to: files[ 0 2 43 0 0 0 0 ]
+2021/01/11-14:57:00.917 1d44 Compacting 1@1 + 1@2 files
+2021/01/11-14:57:02.061 1d44 Generated table #233: 4808 keys, 2163861 bytes
+2021/01/11-14:57:02.252 1d44 Generated table #234: 215 keys, 64869 bytes
+2021/01/11-14:57:02.252 1d44 Compacted 1@1 + 1@2 files => 2228730 bytes
+2021/01/11-14:57:02.318 1d44 Delete type=2 #229
+2021/01/11-14:57:02.320 1d44 compacted to: files[ 0 1 44 0 0 0 0 ]
+2021/01/11-14:57:02.331 1d44 Compacting 1@1 + 1@2 files
+2021/01/11-14:57:03.443 1d44 Generated table #235: 2235 keys, 2035738 bytes
+2021/01/11-14:57:03.443 1d44 Compacted 1@1 + 1@2 files => 2035738 bytes
+2021/01/11-14:57:03.500 1d44 Delete type=2 #225
+2021/01/11-14:57:03.502 1d44 Delete type=2 #226
+2021/01/11-14:57:03.503 1d44 Delete type=2 #231
+2021/01/11-14:57:03.503 1d44 Delete type=2 #232
+2021/01/11-14:57:03.503 1d44 compacted to: files[ 0 0 44 0 0 0 0 ]

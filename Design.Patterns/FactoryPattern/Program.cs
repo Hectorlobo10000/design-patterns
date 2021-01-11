@@ -1,5 +1,7 @@
 ﻿using System;
+using FactoryPattern.AbstractMethod;
 using FactoryPattern.SimplePizzaFactory;
+using PizzaStore = FactoryPattern.SimplePizzaFactory.PizzaStore;
 
 namespace FactoryPattern
 {
@@ -23,6 +25,18 @@ namespace FactoryPattern
             var pizzaStore = new PizzaStore(factory);
             var pizza = pizzaStore.OrderPizza("cheese");
             Console.WriteLine($"I'm ordered {pizza.GetName()}");
+
+
+            Console.WriteLine();
+
+
+            /*
+             * Abstract Method
+             */
+            var setupNyStylePizzaStore = new SetupNyStylePizzaStore();
+            var nyPizzaStore = setupNyStylePizzaStore.GetPizzaStore();
+            var nyPizza = nyPizzaStore.OrderPizza("veggie");
+            Console.WriteLine($"I'm ordered {nyPizza.GetName()}");
 
 
             Console.ReadKey();

@@ -6,11 +6,27 @@
     <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:SimplePizzaFactory/f:ClamPizza.cs" caret="165" fromTop="7" />
     <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:SimplePizzaFactory/f:PepperoniPizza.cs" caret="180" fromTop="7" />
     <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:SimplePizzaFactory/f:VeggiePizza.cs" caret="189" fromTop="9" />
-    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:SimplePizzaFactory/f:SetupPizzaStore.cs" caret="511" fromTop="13" />
-    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/f:Program.cs" caret="840" fromTop="12" />
     <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:SimplePizzaFactory/f:PizzaStore.cs" caret="378" fromTop="11" />
     <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:SimplePizzaFactory/f:Pizza.cs" caret="153" fromTop="8" />
     <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:SimplePizzaFactory/f:SimplePizzaFactory.cs" caret="354" fromTop="13" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:Pizza.cs" caret="61" fromTop="4" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:NyStylePizzaStore.cs" caret="406" fromTop="15" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:NyStyleVeggiePizza.cs" caret="0" fromTop="0" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:NyStyleClamPizza.cs" caret="0" fromTop="0" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:NyStylePepperoniPizza.cs" caret="0" fromTop="0" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:NyStyleCheesePizza.cs" caret="0" fromTop="0" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:CaliforniaPizzaStore.cs" caret="445" fromTop="12" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:ChicagoStyleVeggiePizza.cs" caret="0" fromTop="0" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:ChicagoStyleClamPizza.cs" caret="0" fromTop="0" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:ChicagoStylePepperoniPizza.cs" caret="0" fromTop="0" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:ChicagoStyleCheesePizza.cs" caret="0" fromTop="0" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:ChicagoStylePizzaStore.cs" caret="450" fromTop="18" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:PizzaStore.cs" caret="387" fromTop="14" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:ISetupPizzaStore.cs" caret="160" fromTop="6" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:SimplePizzaFactory/f:SetupPizzaStore.cs" caret="0" fromTop="0" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:SetupChicagoStylePizzaStore.cs" caret="193" fromTop="5" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:SetupNyStylePizzaStore.cs" caret="188" fromTop="3" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/f:Program.cs" caret="1208" fromTop="17" />
   </RecentFiles>
   <RecentEdits>
     <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:SimplePizzaFactory/f:SimplePizzaFactory.cs" caret="400" fromTop="15" />
@@ -27,15 +43,51 @@
     <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:SimplePizzaFactory/f:PepperoniPizza.cs" caret="179" fromTop="7" />
     <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:SimplePizzaFactory/f:VeggiePizza.cs" caret="168" fromTop="6" />
     <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:SimplePizzaFactory/f:SetupPizzaStore.cs" caret="512" fromTop="13" />
-    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/f:Program.cs" caret="551" fromTop="10" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/f:Program.cs" caret="655" fromTop="10" />
     <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/f:Program.cs" caret="13" fromTop="0" />
-    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/f:Program.cs" caret="551" fromTop="10" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/f:Program.cs" caret="655" fromTop="10" />
     <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:SimplePizzaFactory/f:SimplePizzaFactory.cs" caret="418" fromTop="11" />
-    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/f:Program.cs" caret="840" fromTop="12" />
     <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:SimplePizzaFactory/f:Pizza.cs" caret="559" fromTop="18" />
     <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:SimplePizzaFactory/f:Pizza.cs" caret="460" fromTop="13" />
     <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:SimplePizzaFactory/f:Pizza.cs" caret="361" fromTop="8" />
     <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:SimplePizzaFactory/f:Pizza.cs" caret="260" fromTop="3" />
     <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:SimplePizzaFactory/f:Pizza.cs" caret="153" fromTop="8" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:PizzaStore.cs" caret="53" fromTop="2" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:PizzaStore.cs" caret="121" fromTop="6" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:PizzaStore.cs" caret="354" fromTop="7" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:PizzaStore.cs" caret="469" fromTop="6" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:PizzaStore.cs" caret="469" fromTop="8" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:PizzaStore.cs" caret="469" fromTop="14" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:PizzaStore.cs" caret="469" fromTop="21" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:NyStylePizzaStore.cs" caret="187" fromTop="6" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:NyStylePizzaStore.cs" caret="405" fromTop="15" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:ChicagoStylePizzaStore.cs" caret="192" fromTop="6" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:ChicagoStylePizzaStore.cs" caret="429" fromTop="15" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:CaliforniaPizzaStore.cs" caret="190" fromTop="6" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:CaliforniaPizzaStore.cs" caret="445" fromTop="17" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:CaliforniaPizzaStore.cs" caret="445" fromTop="22" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:CaliforniaPizzaStore.cs" caret="445" fromTop="12" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:CaliforniaPizzaStore.cs" caret="445" fromTop="18" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:CaliforniaPizzaStore.cs" caret="445" fromTop="3" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:CaliforniaPizzaStore.cs" caret="445" fromTop="14" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:CaliforniaPizzaStore.cs" caret="445" fromTop="18" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:CaliforniaPizzaStore.cs" caret="446" fromTop="12" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:SetupNyStylePizzaStore.cs" caret="548" fromTop="23" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:SetupNyStylePizzaStore.cs" caret="548" fromTop="18" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:SetupNyStylePizzaStore.cs" caret="548" fromTop="18" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:SetupNyStylePizzaStore.cs" caret="548" fromTop="22" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/f:Program.cs" caret="993" fromTop="15" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:SetupChicagoStylePizzaStore.cs" caret="0" fromTop="0" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:SetupChicagoStylePizzaStore.cs" caret="125" fromTop="8" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:SetupChicagoStylePizzaStore.cs" caret="140" fromTop="7" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:SetupChicagoStylePizzaStore.cs" caret="219" fromTop="13" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:SetupChicagoStylePizzaStore.cs" caret="557" fromTop="19" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:SetupNyStylePizzaStore.cs" caret="139" fromTop="4" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:SetupNyStylePizzaStore.cs" caret="528" fromTop="14" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:PizzaStore.cs" caret="419" fromTop="17" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:ISetupPizzaStore.cs" caret="160" fromTop="6" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:SetupChicagoStylePizzaStore.cs" caret="193" fromTop="5" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:SetupNyStylePizzaStore.cs" caret="188" fromTop="3" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/f:Program.cs" caret="1208" fromTop="17" />
   </RecentEdits>
 </RecentFiles>
