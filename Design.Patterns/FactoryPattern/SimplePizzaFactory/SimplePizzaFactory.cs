@@ -1,29 +1,19 @@
-﻿
-using FactoryPattern.SimplePizzaFactory;
+﻿using System.Collections.Generic;
 
 namespace FactoryPattern.SimplePizzaFactory
 {
     public class SimplePizzaFactory
     {
+        private IDictionary<string, Pizza> _pizzas;
+
+        public SimplePizzaFactory(IDictionary<string, Pizza> pizzas)
+        {
+            _pizzas = pizzas;
+        }
+
         public Pizza CreatePizza(string type)
         {
-            Pizza pizza = null;
-
-            if(type.Equals("cheese"))
-            {
-                pizza = new CheesePizza();
-            } else if (type.Equals("pepperoni"))
-            {
-                pizza = new Pepperoni();
-            } else if (type.Equals(("clam")))
-            {
-                pizza = new ClamPizza();
-            } else if (type.Equals("veggie"))
-            {
-                pizza = new VeggiePizza();
-            }
-
-            return pizza;
+            return _pizzas[type];
         }
     }
 }

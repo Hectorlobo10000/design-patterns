@@ -1,8 +1,9 @@
+﻿
 namespace FactoryPattern.SimplePizzaFactory
 {
-    public class Pepperoni : Pizza
+    public class PepperoniPizza : Pizza
     {
-        public Pepperoni()
+        public PepperoniPizza()
         {
             Name = "Pepperoni Pizza";
         }

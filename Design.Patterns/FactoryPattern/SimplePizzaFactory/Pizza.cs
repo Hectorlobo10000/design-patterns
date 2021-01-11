@@ -1,5 +1,4 @@
-﻿
-using System;
+﻿using System;
 
 namespace FactoryPattern.SimplePizzaFactory
 {
@@ -7,22 +6,24 @@ namespace FactoryPattern.SimplePizzaFactory
     {
         protected string Name;
 
-        public  void Prepare()
+        public void Prepare()
         {
-            Console.WriteLine("Prepare...");
+            Console.WriteLine("Prepare pizza...");
         }
 
         public void Bake()
         {
-            Console.WriteLine("Bake...");
+            Console.WriteLine("Bake pizza...");
         }
-        public  void Cut()
+
+        public void Cut()
         {
-            Console.WriteLine("Cut...");
+            Console.WriteLine("Cut pizza...");
         }
+
         public void Box()
         {
-            Console.WriteLine("Box...");
+            Console.WriteLine("Box pizza...");
         }
 
         public string GetName()
