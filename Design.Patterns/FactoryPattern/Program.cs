@@ -35,8 +35,15 @@ namespace FactoryPattern
              */
             var setupNyStylePizzaStore = new SetupNyStylePizzaStore();
             var nyPizzaStore = setupNyStylePizzaStore.GetPizzaStore();
-            var nyPizza = nyPizzaStore.OrderPizza("veggie");
+            var nyPizza = nyPizzaStore.OrderPizza("cheese");
             Console.WriteLine($"I'm ordered {nyPizza.GetName()}");
+
+            Console.WriteLine();
+
+            var setupChicagoStylePizzaStore = new SetupChicagoStylePizzaStore();
+            var chicagoPizzaStore = setupChicagoStylePizzaStore.GetPizzaStore();
+            var chicagoPizza = chicagoPizzaStore.OrderPizza("clam");
+            Console.WriteLine($"I'm ordered {chicagoPizza.GetName()}");
 
 
             Console.ReadKey();

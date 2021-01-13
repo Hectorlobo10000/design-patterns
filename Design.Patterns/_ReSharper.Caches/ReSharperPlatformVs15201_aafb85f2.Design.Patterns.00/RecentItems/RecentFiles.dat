@@ -9,12 +9,10 @@
     <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:SimplePizzaFactory/f:PizzaStore.cs" caret="378" fromTop="11" />
     <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:SimplePizzaFactory/f:Pizza.cs" caret="153" fromTop="8" />
     <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:SimplePizzaFactory/f:SimplePizzaFactory.cs" caret="354" fromTop="13" />
-    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:Pizza.cs" caret="61" fromTop="4" />
     <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:NyStylePizzaStore.cs" caret="406" fromTop="15" />
     <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:NyStyleVeggiePizza.cs" caret="0" fromTop="0" />
     <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:NyStyleClamPizza.cs" caret="0" fromTop="0" />
     <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:NyStylePepperoniPizza.cs" caret="0" fromTop="0" />
-    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:NyStyleCheesePizza.cs" caret="0" fromTop="0" />
     <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:CaliforniaPizzaStore.cs" caret="445" fromTop="12" />
     <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:ChicagoStyleVeggiePizza.cs" caret="0" fromTop="0" />
     <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:ChicagoStyleClamPizza.cs" caret="0" fromTop="0" />
@@ -26,13 +24,11 @@
     <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:SimplePizzaFactory/f:SetupPizzaStore.cs" caret="0" fromTop="0" />
     <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:SetupChicagoStylePizzaStore.cs" caret="193" fromTop="5" />
     <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:SetupNyStylePizzaStore.cs" caret="188" fromTop="3" />
-    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/f:Program.cs" caret="1208" fromTop="17" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:Pizza.cs" caret="697" fromTop="18" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:NyStyleCheesePizza.cs" caret="343" fromTop="13" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/f:Program.cs" caret="1338" fromTop="32" />
   </RecentFiles>
   <RecentEdits>
-    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:SimplePizzaFactory/f:SimplePizzaFactory.cs" caret="400" fromTop="15" />
-    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:SimplePizzaFactory/f:SimplePizzaFactory.cs" caret="423" fromTop="20" />
-    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:SimplePizzaFactory/f:SimplePizzaFactory.cs" caret="423" fromTop="21" />
-    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:SimplePizzaFactory/f:SimplePizzaFactory.cs" caret="192" fromTop="18" />
     <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:SimplePizzaFactory/f:SimplePizzaFactory.cs" caret="294" fromTop="12" />
     <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:SimplePizzaFactory/f:SimplePizzaFactory.cs" caret="418" fromTop="15" />
     <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:SimplePizzaFactory/f:SetupPizzaStore.cs" caret="511" fromTop="20" />
@@ -88,6 +84,10 @@
     <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:ISetupPizzaStore.cs" caret="160" fromTop="6" />
     <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:SetupChicagoStylePizzaStore.cs" caret="193" fromTop="5" />
     <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:SetupNyStylePizzaStore.cs" caret="188" fromTop="3" />
-    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/f:Program.cs" caret="1208" fromTop="17" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/f:Program.cs" caret="1679" fromTop="22" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:Pizza.cs" caret="293" fromTop="10" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:Pizza.cs" caret="665" fromTop="15" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:NyStyleCheesePizza.cs" caret="319" fromTop="10" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/f:Program.cs" caret="1267" fromTop="16" />
   </RecentEdits>
 </RecentFiles>
