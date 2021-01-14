@@ -1,5 +1,6 @@
 ﻿using System;
 using FactoryPattern.AbstractMethod;
+using FactoryPattern.FactoryMethodPattern.Stores;
 using FactoryPattern.SimplePizzaFactory;
 using PizzaStore = FactoryPattern.SimplePizzaFactory.PizzaStore;
 
@@ -45,6 +46,14 @@ namespace FactoryPattern
             var chicagoPizza = chicagoPizzaStore.OrderPizza("clam");
             Console.WriteLine($"I'm ordered {chicagoPizza.GetName()}");
 
+            Console.WriteLine();
+
+            /*
+             * Ingredients Factory method pattern
+             */
+
+            FactoryMethodPattern.Stores.PizzaStore nyStore = new FactoryMethodPattern.Stores.NyPizzaStore();
+            nyStore.OrderPizza("cheese");
 
             Console.ReadKey();
         }
