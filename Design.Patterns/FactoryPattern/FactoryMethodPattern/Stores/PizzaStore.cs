@@ -10,6 +10,7 @@ namespace FactoryPattern.FactoryMethodPattern.Stores
         {
             Pizza pizza = CreatePizza(type);
 
+            pizza.Prepare();
             pizza.Bake();
             pizza.Cut();
             pizza.Box();

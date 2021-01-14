@@ -11,7 +11,7 @@ namespace FactoryPattern.FactoryMethodPattern.Pizzas
         protected ISauce Sauce;
         protected ICheese Cheese;
 
-        protected abstract void Prepare();
+        public abstract void Prepare();
 
         public void Bake()
         {

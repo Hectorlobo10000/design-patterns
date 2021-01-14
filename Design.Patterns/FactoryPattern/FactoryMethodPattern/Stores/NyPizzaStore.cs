@@ -26,7 +26,6 @@ namespace FactoryPattern.FactoryMethodPattern.Stores
             if (type.Equals("cheese"))
             {
                 pizza = new CheesePizza(ingredientFactory);
-                pizza.SetName("New York style cheese pizza");
             }
 
             return pizza;

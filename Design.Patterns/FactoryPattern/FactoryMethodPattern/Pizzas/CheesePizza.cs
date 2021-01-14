@@ -15,7 +15,7 @@ namespace FactoryPattern.FactoryMethodPattern.Pizzas
             Name = "NY style cheese pizza";
         }
 
-        protected override void Prepare()
+        public override void Prepare()
         {
             Console.WriteLine($"Preparing {Name}");
             Cheese = _pizzaIngredientFactory.CreateCheese();

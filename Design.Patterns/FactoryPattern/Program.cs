@@ -53,7 +53,7 @@ namespace FactoryPattern
              */
 
             FactoryMethodPattern.Stores.PizzaStore nyStore = new FactoryMethodPattern.Stores.NyPizzaStore();
-            nyStore.OrderPizza("cheese");
+            var pizzaafp = nyStore.OrderPizza("cheese");
 
             Console.ReadKey();
         }

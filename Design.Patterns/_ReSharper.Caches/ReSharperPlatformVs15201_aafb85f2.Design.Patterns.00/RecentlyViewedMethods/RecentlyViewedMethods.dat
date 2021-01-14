@@ -1,15 +1,15 @@
 ﻿<RecentlyViewedMethods>
   <RecentlyViewedMethods>
-    <RecentMethod id="29789503-906e-40f5-a4dd-48528dfd0be6%28FactoryPattern%29-57393E19%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3AFactoryPattern.Program.Main%28System.String%5B%5D%29" />
-    <RecentMethod id="29789503-906e-40f5-a4dd-48528dfd0be6%28FactoryPattern%29-57393E19%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3AFactoryPattern.FactoryMethodPattern.Stores.PizzaStore.OrderPizza%28System.String%29" />
-    <RecentMethod id="29789503-906e-40f5-a4dd-48528dfd0be6%28FactoryPattern%29-57393E19%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3AFactoryPattern.FactoryMethodPattern.Stores.PizzaStore.OrderPizza%28System.String%29" />
-    <RecentMethod id="29789503-906e-40f5-a4dd-48528dfd0be6%28FactoryPattern%29-57393E19%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3AFactoryPattern.AbstractMethod.PizzaStore.OrderPizza%28System.String%29" />
-    <RecentMethod id="29789503-906e-40f5-a4dd-48528dfd0be6%28FactoryPattern%29-57393E19%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3AFactoryPattern.FactoryMethodPattern.Pizzas.CheesePizza.%23ctor%28FactoryPattern.FactoryMethodPattern.Ingredients.IPizzaIngredientFactory%29" />
-    <RecentMethod id="29789503-906e-40f5-a4dd-48528dfd0be6%28FactoryPattern%29-57393E19%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3AFactoryPattern.FactoryMethodPattern.Pizzas.CheesePizza.Prepare" />
-    <RecentMethod id="29789503-906e-40f5-a4dd-48528dfd0be6%28FactoryPattern%29-57393E19%5B.NETCoreApp%2CVersion%3Dv2.1%5D/F%3AFactoryPattern.FactoryMethodPattern.Pizzas.CheesePizza._pizzaIngredientFactory" />
-    <RecentMethod id="29789503-906e-40f5-a4dd-48528dfd0be6%28FactoryPattern%29-57393E19%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3AFactoryPattern.FactoryMethodPattern.Pizzas.Pizza.Box" />
-    <RecentMethod id="29789503-906e-40f5-a4dd-48528dfd0be6%28FactoryPattern%29-57393E19%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3AFactoryPattern.FactoryMethodPattern.Pizzas.Pizza.Cut" />
+    <RecentMethod id="29789503-906e-40f5-a4dd-48528dfd0be6%28FactoryPattern%29-57393E19%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3AFactoryPattern.FactoryMethodPattern.Pizzas.Pizza.Prepare" />
+    <RecentMethod id="29789503-906e-40f5-a4dd-48528dfd0be6%28FactoryPattern%29-57393E19%5B.NETCoreApp%2CVersion%3Dv2.1%5D/F%3AFactoryPattern.FactoryMethodPattern.Pizzas.Pizza.Cheese" />
     <RecentMethod id="29789503-906e-40f5-a4dd-48528dfd0be6%28FactoryPattern%29-57393E19%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3AFactoryPattern.FactoryMethodPattern.Pizzas.Pizza.Bake" />
+    <RecentMethod id="29789503-906e-40f5-a4dd-48528dfd0be6%28FactoryPattern%29-57393E19%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3AFactoryPattern.FactoryMethodPattern.Pizzas.Pizza.Cut" />
+    <RecentMethod id="29789503-906e-40f5-a4dd-48528dfd0be6%28FactoryPattern%29-57393E19%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3AFactoryPattern.FactoryMethodPattern.Pizzas.Pizza.Box" />
+    <RecentMethod id="29789503-906e-40f5-a4dd-48528dfd0be6%28FactoryPattern%29-57393E19%5B.NETCoreApp%2CVersion%3Dv2.1%5D/F%3AFactoryPattern.FactoryMethodPattern.Pizzas.CheesePizza._pizzaIngredientFactory" />
+    <RecentMethod id="29789503-906e-40f5-a4dd-48528dfd0be6%28FactoryPattern%29-57393E19%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3AFactoryPattern.FactoryMethodPattern.Pizzas.CheesePizza.Prepare" />
+    <RecentMethod id="29789503-906e-40f5-a4dd-48528dfd0be6%28FactoryPattern%29-57393E19%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3AFactoryPattern.FactoryMethodPattern.Pizzas.CheesePizza.%23ctor%28FactoryPattern.FactoryMethodPattern.Ingredients.IPizzaIngredientFactory%29" />
+    <RecentMethod id="29789503-906e-40f5-a4dd-48528dfd0be6%28FactoryPattern%29-57393E19%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3AFactoryPattern.AbstractMethod.PizzaStore.OrderPizza%28System.String%29" />
+    <RecentMethod id="29789503-906e-40f5-a4dd-48528dfd0be6%28FactoryPattern%29-57393E19%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3AFactoryPattern.FactoryMethodPattern.Stores.PizzaStore.OrderPizza%28System.String%29" />
     <RecentMethod id="29789503-906e-40f5-a4dd-48528dfd0be6%28FactoryPattern%29-57393E19%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3AFactoryPattern.Program.Main%28System.String%5B%5D%29" />
   </RecentlyViewedMethods>
 </RecentlyViewedMethods>
