@@ -1,5 +1,16 @@
 ﻿<RecentlyViewedMethods>
   <RecentlyViewedMethods>
+    <RecentMethod id="598faf2c-eaff-4a86-ab55-5a611ac82ca3%28SinglePattern%29-AD8E7D15%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3ASinglePattern.Singleton.Welcome%28System.String%29" />
+    <RecentMethod id="598faf2c-eaff-4a86-ab55-5a611ac82ca3%28SinglePattern%29-AD8E7D15%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3ASinglePattern.Program.Main%28System.String%5B%5D%29" />
+    <RecentMethod id="598faf2c-eaff-4a86-ab55-5a611ac82ca3%28SinglePattern%29-AD8E7D15%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3ASinglePattern.Singleton.GetInstance" />
+    <RecentMethod id="598faf2c-eaff-4a86-ab55-5a611ac82ca3%28SinglePattern%29-AD8E7D15%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3ASinglePattern.ChocolateBoiler.GetInstance" />
+    <RecentMethod id="598faf2c-eaff-4a86-ab55-5a611ac82ca3%28SinglePattern%29-AD8E7D15%5B.NETCoreApp%2CVersion%3Dv2.1%5D/F%3ASinglePattern.ChocolateBoiler._chocolateBoilerInstance" />
+    <RecentMethod id="598faf2c-eaff-4a86-ab55-5a611ac82ca3%28SinglePattern%29-AD8E7D15%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3ASinglePattern.ChocolateBoiler.GetInstance" />
+    <RecentMethod id="598faf2c-eaff-4a86-ab55-5a611ac82ca3%28SinglePattern%29-AD8E7D15%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3ASinglePattern.Program.Main%28System.String%5B%5D%29" />
+    <RecentMethod id="598faf2c-eaff-4a86-ab55-5a611ac82ca3%28SinglePattern%29-AD8E7D15%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3ASinglePattern.ChocolateBoiler.GetInstance" />
+    <RecentMethod id="598faf2c-eaff-4a86-ab55-5a611ac82ca3%28SinglePattern%29-AD8E7D15%5B.NETCoreApp%2CVersion%3Dv2.1%5D/F%3ASinglePattern.Singleton._uniqueInstance" />
+    <RecentMethod id="598faf2c-eaff-4a86-ab55-5a611ac82ca3%28SinglePattern%29-AD8E7D15%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3ASinglePattern.Singleton.GetInstance" />
+    <RecentMethod id="598faf2c-eaff-4a86-ab55-5a611ac82ca3%28SinglePattern%29-AD8E7D15%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3ASinglePattern.Program.Main%28System.String%5B%5D%29" />
     <RecentMethod id="29789503-906e-40f5-a4dd-48528dfd0be6%28FactoryPattern%29-57393E19%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3AFactoryPattern.FactoryMethodPattern.Pizzas.Pizza.Prepare" />
     <RecentMethod id="29789503-906e-40f5-a4dd-48528dfd0be6%28FactoryPattern%29-57393E19%5B.NETCoreApp%2CVersion%3Dv2.1%5D/F%3AFactoryPattern.FactoryMethodPattern.Pizzas.Pizza.Cheese" />
     <RecentMethod id="29789503-906e-40f5-a4dd-48528dfd0be6%28FactoryPattern%29-57393E19%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3AFactoryPattern.FactoryMethodPattern.Pizzas.Pizza.Bake" />
@@ -9,7 +20,5 @@
     <RecentMethod id="29789503-906e-40f5-a4dd-48528dfd0be6%28FactoryPattern%29-57393E19%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3AFactoryPattern.FactoryMethodPattern.Pizzas.CheesePizza.Prepare" />
     <RecentMethod id="29789503-906e-40f5-a4dd-48528dfd0be6%28FactoryPattern%29-57393E19%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3AFactoryPattern.FactoryMethodPattern.Pizzas.CheesePizza.%23ctor%28FactoryPattern.FactoryMethodPattern.Ingredients.IPizzaIngredientFactory%29" />
     <RecentMethod id="29789503-906e-40f5-a4dd-48528dfd0be6%28FactoryPattern%29-57393E19%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3AFactoryPattern.AbstractMethod.PizzaStore.OrderPizza%28System.String%29" />
-    <RecentMethod id="29789503-906e-40f5-a4dd-48528dfd0be6%28FactoryPattern%29-57393E19%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3AFactoryPattern.FactoryMethodPattern.Stores.PizzaStore.OrderPizza%28System.String%29" />
-    <RecentMethod id="29789503-906e-40f5-a4dd-48528dfd0be6%28FactoryPattern%29-57393E19%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3AFactoryPattern.Program.Main%28System.String%5B%5D%29" />
   </RecentlyViewedMethods>
 </RecentlyViewedMethods>

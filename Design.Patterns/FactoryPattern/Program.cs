@@ -20,6 +20,10 @@ namespace FactoryPattern
              */
 
             /*
+             * The Abstract Factory Pattern: provides an interface for creating families of realted or dependent objects without specifying their concrete classes.
+             */
+
+            /*
              * Simple Factory
              */
             var factory = SetupPizzaStore.GetFactory();
