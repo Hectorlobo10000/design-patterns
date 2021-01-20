@@ -1,25 +1,22 @@
 ﻿<RecentlyViewedMethods>
   <RecentlyViewedMethods>
-    <RecentMethod id="ce912cb3-7c86-4c57-a04e-3448f12315d7%28CommandPattern%29-C4EB34B8%5B.NETCoreApp%2CVersion%3Dv2.1%5D/F%3ACommandPattern.SimpleRemoteControl.RemoteControl._command" />
     <RecentMethod id="ce912cb3-7c86-4c57-a04e-3448f12315d7%28CommandPattern%29-C4EB34B8%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3ACommandPattern.SimpleRemoteControl.Light.On" />
-    <RecentMethod id="ce912cb3-7c86-4c57-a04e-3448f12315d7%28CommandPattern%29-C4EB34B8%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3ACommandPattern.Program.Main%28System.String%5B%5D%29" />
-    <RecentMethod id="ce912cb3-7c86-4c57-a04e-3448f12315d7%28CommandPattern%29-C4EB34B8%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3ACommandPattern.Program.Main%28System.String%5B%5D%29" />
+    <RecentMethod id="ce912cb3-7c86-4c57-a04e-3448f12315d7%28CommandPattern%29-C4EB34B8%5B.NETCoreApp%2CVersion%3Dv2.1%5D/F%3ACommandPattern.SimpleRemoteControl.RemoteControl._command" />
+    <RecentMethod id="598faf2c-eaff-4a86-ab55-5a611ac82ca3%28SinglePattern%29-AD8E7D15%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3ASinglePattern.Program.Main%28System.String%5B%5D%29" />
+    <RecentMethod id="598faf2c-eaff-4a86-ab55-5a611ac82ca3%28SinglePattern%29-AD8E7D15%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3ASinglePattern.ChocolateBoiler.GetInstance" />
+    <RecentMethod id="598faf2c-eaff-4a86-ab55-5a611ac82ca3%28SinglePattern%29-AD8E7D15%5B.NETCoreApp%2CVersion%3Dv2.1%5D/F%3ASinglePattern.Singleton._uniqueInstance" />
+    <RecentMethod id="598faf2c-eaff-4a86-ab55-5a611ac82ca3%28SinglePattern%29-AD8E7D15%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3ASinglePattern.Singleton.GetInstance" />
+    <RecentMethod id="29789503-906e-40f5-a4dd-48528dfd0be6%28FactoryPattern%29-57393E19%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3AFactoryPattern.FactoryMethodPattern.Pizzas.Pizza.Prepare" />
+    <RecentMethod id="29789503-906e-40f5-a4dd-48528dfd0be6%28FactoryPattern%29-57393E19%5B.NETCoreApp%2CVersion%3Dv2.1%5D/F%3AFactoryPattern.FactoryMethodPattern.Pizzas.Pizza.Cheese" />
+    <RecentMethod id="29789503-906e-40f5-a4dd-48528dfd0be6%28FactoryPattern%29-57393E19%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3AFactoryPattern.FactoryMethodPattern.Pizzas.Pizza.Bake" />
+    <RecentMethod id="29789503-906e-40f5-a4dd-48528dfd0be6%28FactoryPattern%29-57393E19%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3AFactoryPattern.FactoryMethodPattern.Pizzas.Pizza.Cut" />
+    <RecentMethod id="29789503-906e-40f5-a4dd-48528dfd0be6%28FactoryPattern%29-57393E19%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3AFactoryPattern.FactoryMethodPattern.Pizzas.Pizza.Box" />
+    <RecentMethod id="29789503-906e-40f5-a4dd-48528dfd0be6%28FactoryPattern%29-57393E19%5B.NETCoreApp%2CVersion%3Dv2.1%5D/F%3AFactoryPattern.FactoryMethodPattern.Pizzas.CheesePizza._pizzaIngredientFactory" />
+    <RecentMethod id="29789503-906e-40f5-a4dd-48528dfd0be6%28FactoryPattern%29-57393E19%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3AFactoryPattern.FactoryMethodPattern.Pizzas.CheesePizza.Prepare" />
+    <RecentMethod id="29789503-906e-40f5-a4dd-48528dfd0be6%28FactoryPattern%29-57393E19%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3AFactoryPattern.FactoryMethodPattern.Pizzas.CheesePizza.%23ctor%28FactoryPattern.FactoryMethodPattern.Ingredients.IPizzaIngredientFactory%29" />
+    <RecentMethod id="29789503-906e-40f5-a4dd-48528dfd0be6%28FactoryPattern%29-57393E19%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3AFactoryPattern.AbstractMethod.PizzaStore.OrderPizza%28System.String%29" />
+    <RecentMethod id="26b88d75-345d-4ae9-af4e-114b221ec393%28DecoratorPattern%29-36918508%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3ADecoratorPattern.Mocha.%23ctor%28DecoratorPattern.Beverage%29" />
     <RecentMethod id="ce912cb3-7c86-4c57-a04e-3448f12315d7%28CommandPattern%29-C4EB34B8%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3ACommandPattern.SimpleRemoteControl.RemoteControl.%23ctor" />
     <RecentMethod id="ce912cb3-7c86-4c57-a04e-3448f12315d7%28CommandPattern%29-C4EB34B8%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3ACommandPattern.Program.Main%28System.String%5B%5D%29" />
-    <RecentMethod id="ce912cb3-7c86-4c57-a04e-3448f12315d7%28CommandPattern%29-C4EB34B8%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3ACommandPattern.Program.Main%28System.String%5B%5D%29" />
-    <RecentMethod id="26b88d75-345d-4ae9-af4e-114b221ec393%28DecoratorPattern%29-36918508%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3ADecoratorPattern.Mocha.%23ctor%28DecoratorPattern.Beverage%29" />
-    <RecentMethod id="29789503-906e-40f5-a4dd-48528dfd0be6%28FactoryPattern%29-57393E19%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3AFactoryPattern.AbstractMethod.PizzaStore.OrderPizza%28System.String%29" />
-    <RecentMethod id="29789503-906e-40f5-a4dd-48528dfd0be6%28FactoryPattern%29-57393E19%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3AFactoryPattern.FactoryMethodPattern.Pizzas.CheesePizza.%23ctor%28FactoryPattern.FactoryMethodPattern.Ingredients.IPizzaIngredientFactory%29" />
-    <RecentMethod id="29789503-906e-40f5-a4dd-48528dfd0be6%28FactoryPattern%29-57393E19%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3AFactoryPattern.FactoryMethodPattern.Pizzas.CheesePizza.Prepare" />
-    <RecentMethod id="29789503-906e-40f5-a4dd-48528dfd0be6%28FactoryPattern%29-57393E19%5B.NETCoreApp%2CVersion%3Dv2.1%5D/F%3AFactoryPattern.FactoryMethodPattern.Pizzas.CheesePizza._pizzaIngredientFactory" />
-    <RecentMethod id="29789503-906e-40f5-a4dd-48528dfd0be6%28FactoryPattern%29-57393E19%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3AFactoryPattern.FactoryMethodPattern.Pizzas.Pizza.Box" />
-    <RecentMethod id="29789503-906e-40f5-a4dd-48528dfd0be6%28FactoryPattern%29-57393E19%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3AFactoryPattern.FactoryMethodPattern.Pizzas.Pizza.Cut" />
-    <RecentMethod id="29789503-906e-40f5-a4dd-48528dfd0be6%28FactoryPattern%29-57393E19%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3AFactoryPattern.FactoryMethodPattern.Pizzas.Pizza.Bake" />
-    <RecentMethod id="29789503-906e-40f5-a4dd-48528dfd0be6%28FactoryPattern%29-57393E19%5B.NETCoreApp%2CVersion%3Dv2.1%5D/F%3AFactoryPattern.FactoryMethodPattern.Pizzas.Pizza.Cheese" />
-    <RecentMethod id="29789503-906e-40f5-a4dd-48528dfd0be6%28FactoryPattern%29-57393E19%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3AFactoryPattern.FactoryMethodPattern.Pizzas.Pizza.Prepare" />
-    <RecentMethod id="598faf2c-eaff-4a86-ab55-5a611ac82ca3%28SinglePattern%29-AD8E7D15%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3ASinglePattern.Singleton.GetInstance" />
-    <RecentMethod id="598faf2c-eaff-4a86-ab55-5a611ac82ca3%28SinglePattern%29-AD8E7D15%5B.NETCoreApp%2CVersion%3Dv2.1%5D/F%3ASinglePattern.Singleton._uniqueInstance" />
-    <RecentMethod id="598faf2c-eaff-4a86-ab55-5a611ac82ca3%28SinglePattern%29-AD8E7D15%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3ASinglePattern.ChocolateBoiler.GetInstance" />
-    <RecentMethod id="598faf2c-eaff-4a86-ab55-5a611ac82ca3%28SinglePattern%29-AD8E7D15%5B.NETCoreApp%2CVersion%3Dv2.1%5D/M%3ASinglePattern.Program.Main%28System.String%5B%5D%29" />
   </RecentlyViewedMethods>
 </RecentlyViewedMethods>

@@ -23,8 +23,9 @@
     <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:Beverage.cs" caret="252" fromTop="12" />
     <File id="CE912CB3-7C86-4C57-A04E-3448F12315D7/d:SimpleRemoteControl/f:LightOnCommand.cs" caret="229" fromTop="9" />
     <File id="CE912CB3-7C86-4C57-A04E-3448F12315D7/d:SimpleRemoteControl/f:Light.cs" caret="182" fromTop="8" />
-    <File id="CE912CB3-7C86-4C57-A04E-3448F12315D7/f:Program.cs" caret="272" fromTop="8" />
     <File id="CE912CB3-7C86-4C57-A04E-3448F12315D7/d:SimpleRemoteControl/f:RemoteControl.cs" caret="341" fromTop="16" />
+    <File id="CE912CB3-7C86-4C57-A04E-3448F12315D7/d:ComplexRemoteControl/f:RemoteControl.cs" caret="1429" fromTop="8" />
+    <File id="CE912CB3-7C86-4C57-A04E-3448F12315D7/f:Program.cs" caret="2119" fromTop="55" />
   </RecentFiles>
   <RecentEdits>
     <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:SetupNyStylePizzaStore.cs" caret="188" fromTop="3" />
@@ -80,5 +81,9 @@
     <File id="CE912CB3-7C86-4C57-A04E-3448F12315D7/f:Program.cs" caret="477" fromTop="13" />
     <File id="CE912CB3-7C86-4C57-A04E-3448F12315D7/d:SimpleRemoteControl/f:Light.cs" caret="182" fromTop="8" />
     <File id="CE912CB3-7C86-4C57-A04E-3448F12315D7/d:SimpleRemoteControl/f:RemoteControl.cs" caret="121" fromTop="4" />
+    <File id="CE912CB3-7C86-4C57-A04E-3448F12315D7/d:ComplexRemoteControl/f:RemoteControl.cs" caret="576" fromTop="11" />
+    <File id="CE912CB3-7C86-4C57-A04E-3448F12315D7/f:Program.cs" caret="1840" fromTop="20" />
+    <File id="CE912CB3-7C86-4C57-A04E-3448F12315D7/d:ComplexRemoteControl/f:RemoteControl.cs" caret="1429" fromTop="8" />
+    <File id="CE912CB3-7C86-4C57-A04E-3448F12315D7/f:Program.cs" caret="2218" fromTop="13" />
   </RecentEdits>
 </RecentFiles>
