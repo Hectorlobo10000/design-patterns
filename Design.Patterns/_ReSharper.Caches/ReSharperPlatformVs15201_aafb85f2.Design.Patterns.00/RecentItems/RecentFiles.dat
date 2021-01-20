@@ -1,14 +1,5 @@
 ﻿<RecentFiles>
   <RecentFiles>
-    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:ChicagoStylePizzaStore.cs" caret="450" fromTop="18" />
-    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:ISetupPizzaStore.cs" caret="160" fromTop="6" />
-    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:SimplePizzaFactory/f:SetupPizzaStore.cs" caret="0" fromTop="0" />
-    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:SetupChicagoStylePizzaStore.cs" caret="193" fromTop="5" />
-    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:SetupNyStylePizzaStore.cs" caret="188" fromTop="3" />
-    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:Pizza.cs" caret="697" fromTop="18" />
-    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:NyStyleCheesePizza.cs" caret="343" fromTop="13" />
-    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:FactoryMethodPattern/d:Ingredients/f:Sauce.cs" caret="85" fromTop="2" />
-    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:FactoryMethodPattern/d:Ingredients/f:Cheese.cs" caret="85" fromTop="2" />
     <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:FactoryMethodPattern/d:Ingredients/f:MarinaraSauce.cs" caret="176" fromTop="6" />
     <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:FactoryMethodPattern/d:Ingredients/f:ReggianoCheese.cs" caret="106" fromTop="2" />
     <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:FactoryMethodPattern/d:Ingredients/f:PlumTomatoSauce.cs" caret="105" fromTop="2" />
@@ -22,29 +13,20 @@
     <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:FactoryMethodPattern/d:Ingredients/f:NyPizzaIngredientFactory.cs" caret="0" fromTop="0" />
     <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:FactoryMethodPattern/d:Pizzas/f:Pizza.cs" caret="822" fromTop="20" />
     <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:FactoryMethodPattern/d:Stores/f:PizzaStore.cs" caret="323" fromTop="11" />
-    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:Beverage.cs" caret="252" fromTop="12" />
-    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:HouseBlend.cs" caret="0" fromTop="0" />
-    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:CondimentDecorator.cs" caret="0" fromTop="0" />
-    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:Mocha.cs" caret="231" fromTop="10" />
-    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/f:Program.cs" caret="802" fromTop="12" />
     <File id="598FAF2C-EAFF-4A86-AB55-5A611AC82CA3/f:ChocolateBoiler.cs" caret="807" fromTop="15" />
-    <File id="598FAF2C-EAFF-4A86-AB55-5A611AC82CA3/f:Singleton.cs" caret="690" fromTop="21" />
-    <File id="598FAF2C-EAFF-4A86-AB55-5A611AC82CA3/f:Program.cs" caret="426" fromTop="12" />
+    <File id="598FAF2C-EAFF-4A86-AB55-5A611AC82CA3/f:Program.cs" caret="426" fromTop="10" />
+    <File id="598FAF2C-EAFF-4A86-AB55-5A611AC82CA3/f:Singleton.cs" caret="688" fromTop="20" />
+    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/f:Program.cs" caret="802" fromTop="11" />
+    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:Mocha.cs" caret="231" fromTop="9" />
+    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:CondimentDecorator.cs" caret="0" fromTop="0" />
+    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:HouseBlend.cs" caret="0" fromTop="0" />
+    <File id="26B88D75-345D-4AE9-AF4E-114B221EC393/f:Beverage.cs" caret="252" fromTop="12" />
+    <File id="CE912CB3-7C86-4C57-A04E-3448F12315D7/d:SimpleRemoteControl/f:LightOnCommand.cs" caret="229" fromTop="9" />
+    <File id="CE912CB3-7C86-4C57-A04E-3448F12315D7/d:SimpleRemoteControl/f:Light.cs" caret="182" fromTop="8" />
+    <File id="CE912CB3-7C86-4C57-A04E-3448F12315D7/f:Program.cs" caret="272" fromTop="8" />
+    <File id="CE912CB3-7C86-4C57-A04E-3448F12315D7/d:SimpleRemoteControl/f:RemoteControl.cs" caret="341" fromTop="16" />
   </RecentFiles>
   <RecentEdits>
-    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:SetupNyStylePizzaStore.cs" caret="548" fromTop="18" />
-    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:SetupNyStylePizzaStore.cs" caret="548" fromTop="22" />
-    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/f:Program.cs" caret="1244" fromTop="15" />
-    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:SetupChicagoStylePizzaStore.cs" caret="0" fromTop="0" />
-    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:SetupChicagoStylePizzaStore.cs" caret="125" fromTop="8" />
-    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:SetupChicagoStylePizzaStore.cs" caret="140" fromTop="7" />
-    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:SetupChicagoStylePizzaStore.cs" caret="219" fromTop="13" />
-    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:SetupChicagoStylePizzaStore.cs" caret="557" fromTop="19" />
-    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:SetupNyStylePizzaStore.cs" caret="139" fromTop="4" />
-    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:SetupNyStylePizzaStore.cs" caret="528" fromTop="14" />
-    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:PizzaStore.cs" caret="419" fromTop="17" />
-    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:ISetupPizzaStore.cs" caret="160" fromTop="6" />
-    <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:SetupChicagoStylePizzaStore.cs" caret="193" fromTop="5" />
     <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:SetupNyStylePizzaStore.cs" caret="188" fromTop="3" />
     <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:Pizza.cs" caret="293" fromTop="10" />
     <File id="29789503-906E-40F5-A4DD-48528DFD0BE6/d:AbstractMethod/f:Pizza.cs" caret="665" fromTop="15" />
@@ -92,5 +74,11 @@
     <File id="598FAF2C-EAFF-4A86-AB55-5A611AC82CA3/f:Singleton.cs" caret="556" fromTop="22" />
     <File id="598FAF2C-EAFF-4A86-AB55-5A611AC82CA3/f:Singleton.cs" caret="688" fromTop="21" />
     <File id="598FAF2C-EAFF-4A86-AB55-5A611AC82CA3/f:Program.cs" caret="426" fromTop="12" />
+    <File id="CE912CB3-7C86-4C57-A04E-3448F12315D7/f:Program.cs" caret="538" fromTop="6" />
+    <File id="CE912CB3-7C86-4C57-A04E-3448F12315D7/d:SimpleRemoteControl/f:RemoteControl.cs" caret="192" fromTop="9" />
+    <File id="CE912CB3-7C86-4C57-A04E-3448F12315D7/d:SimpleRemoteControl/f:LightOnCommand.cs" caret="118" fromTop="4" />
+    <File id="CE912CB3-7C86-4C57-A04E-3448F12315D7/f:Program.cs" caret="477" fromTop="13" />
+    <File id="CE912CB3-7C86-4C57-A04E-3448F12315D7/d:SimpleRemoteControl/f:Light.cs" caret="182" fromTop="8" />
+    <File id="CE912CB3-7C86-4C57-A04E-3448F12315D7/d:SimpleRemoteControl/f:RemoteControl.cs" caret="121" fromTop="4" />
   </RecentEdits>
 </RecentFiles>
