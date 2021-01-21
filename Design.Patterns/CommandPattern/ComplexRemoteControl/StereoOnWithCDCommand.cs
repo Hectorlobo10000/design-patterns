@@ -15,18 +15,8 @@
             _stereo.SetCD();
             _stereo.SetVolume(11);
         }
-    }
 
-    public class StereoOffWithCdCommand : ICommand
-    {
-        private IStereo _stereo;
-
-        public StereoOffWithCdCommand(IStereo stereo)
-        {
-            _stereo = stereo;
-        }
-
-        public void Execute()
+        public void Undo()
         {
             _stereo.Off();
         }

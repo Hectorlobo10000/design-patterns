@@ -9,3 +9,4 @@ C:\projects\design-patterns\Design.Patterns\ObserverPattern\obj\Debug\netcoreapp
 C:\projects\design-patterns\Design.Patterns\ObserverPattern\obj\Debug\netcoreapp2.1\ObserverPattern.AssemblyInfo.cs
 C:\projects\design-patterns\Design.Patterns\ObserverPattern\obj\Debug\netcoreapp2.1\ObserverPattern.dll
 C:\projects\design-patterns\Design.Patterns\ObserverPattern\obj\Debug\netcoreapp2.1\ObserverPattern.pdb
+C:\projects\design-patterns\Design.Patterns\ObserverPattern\obj\Debug\netcoreapp2.1\ObserverPattern.genruntimeconfig.cache

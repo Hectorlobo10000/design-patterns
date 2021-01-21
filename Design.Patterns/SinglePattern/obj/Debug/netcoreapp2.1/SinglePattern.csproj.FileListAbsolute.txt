@@ -9,3 +9,4 @@ C:\projects\design-patterns\Design.Patterns\SinglePattern\bin\Debug\netcoreapp2.
 C:\projects\design-patterns\Design.Patterns\SinglePattern\bin\Debug\netcoreapp2.1\SinglePattern.pdb
 C:\projects\design-patterns\Design.Patterns\SinglePattern\obj\Debug\netcoreapp2.1\SinglePattern.dll
 C:\projects\design-patterns\Design.Patterns\SinglePattern\obj\Debug\netcoreapp2.1\SinglePattern.pdb
+C:\projects\design-patterns\Design.Patterns\SinglePattern\obj\Debug\netcoreapp2.1\SinglePattern.genruntimeconfig.cache

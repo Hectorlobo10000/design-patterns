@@ -9,7 +9,100 @@
   <component name="ChangeListManager">
     <list default="true" id="53d9a651-9771-4905-8079-62839d13efa0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Design.Patterns/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Design.Patterns/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Design.Patterns/.idea/projectSettingsUpdater.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Design.Patterns/.idea/projectSettingsUpdater.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Design.Patterns/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Design.Patterns/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/Design.Patterns/v15/Server/sqlite3/storage.ide" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Design.Patterns/v15/Server/sqlite3/storage.ide" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/Design.Patterns/v15/Server/sqlite3/storage.ide-shm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/Design.Patterns/v15/Server/sqlite3/storage.ide-wal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CommandPattern/ComplexRemoteControl/ICommand.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CommandPattern/ComplexRemoteControl/ICommand.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CommandPattern/ComplexRemoteControl/Light.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CommandPattern/ComplexRemoteControl/Light.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CommandPattern/ComplexRemoteControl/LightOffCommand.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CommandPattern/ComplexRemoteControl/LightOffCommand.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CommandPattern/ComplexRemoteControl/LightOnCommand.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CommandPattern/ComplexRemoteControl/LightOnCommand.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CommandPattern/ComplexRemoteControl/NoCommand.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CommandPattern/ComplexRemoteControl/NoCommand.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CommandPattern/ComplexRemoteControl/RemoteControl.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CommandPattern/ComplexRemoteControl/RemoteControl.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CommandPattern/ComplexRemoteControl/Stereo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CommandPattern/ComplexRemoteControl/Stereo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CommandPattern/ComplexRemoteControl/StereoOnWithCDCommand.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CommandPattern/ComplexRemoteControl/StereoOnWithCDCommand.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CommandPattern/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CommandPattern/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CommandPattern/bin/Debug/netcoreapp2.1/CommandPattern.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/CommandPattern/bin/Debug/netcoreapp2.1/CommandPattern.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CommandPattern/bin/Debug/netcoreapp2.1/CommandPattern.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CommandPattern/bin/Debug/netcoreapp2.1/CommandPattern.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CommandPattern/bin/Debug/netcoreapp2.1/CommandPattern.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CommandPattern/bin/Debug/netcoreapp2.1/CommandPattern.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CommandPattern/obj/CommandPattern.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CommandPattern/obj/CommandPattern.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CommandPattern/obj/CommandPattern.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/CommandPattern/obj/CommandPattern.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CommandPattern/obj/Debug/netcoreapp2.1/CommandPattern.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CommandPattern/obj/Debug/netcoreapp2.1/CommandPattern.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CommandPattern/obj/Debug/netcoreapp2.1/CommandPattern.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CommandPattern/obj/Debug/netcoreapp2.1/CommandPattern.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CommandPattern/obj/Debug/netcoreapp2.1/CommandPattern.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CommandPattern/obj/Debug/netcoreapp2.1/CommandPattern.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CommandPattern/obj/Debug/netcoreapp2.1/CommandPattern.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CommandPattern/obj/Debug/netcoreapp2.1/CommandPattern.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CommandPattern/obj/Debug/netcoreapp2.1/CommandPattern.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CommandPattern/obj/Debug/netcoreapp2.1/CommandPattern.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CommandPattern/obj/Debug/netcoreapp2.1/CommandPattern.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CommandPattern/obj/Debug/netcoreapp2.1/CommandPattern.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CommandPattern/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/CommandPattern/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DecoratorPattern/bin/Debug/netcoreapp2.1/DecoratorPattern.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/DecoratorPattern/bin/Debug/netcoreapp2.1/DecoratorPattern.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DecoratorPattern/bin/Debug/netcoreapp2.1/DecoratorPattern.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DecoratorPattern/bin/Debug/netcoreapp2.1/DecoratorPattern.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DecoratorPattern/bin/Debug/netcoreapp2.1/DecoratorPattern.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DecoratorPattern/bin/Debug/netcoreapp2.1/DecoratorPattern.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DecoratorPattern/obj/Debug/netcoreapp2.1/DecoratorPattern.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DecoratorPattern/obj/Debug/netcoreapp2.1/DecoratorPattern.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DecoratorPattern/obj/Debug/netcoreapp2.1/DecoratorPattern.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DecoratorPattern/obj/Debug/netcoreapp2.1/DecoratorPattern.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DecoratorPattern/obj/Debug/netcoreapp2.1/DecoratorPattern.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DecoratorPattern/obj/Debug/netcoreapp2.1/DecoratorPattern.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DecoratorPattern/obj/Debug/netcoreapp2.1/DecoratorPattern.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DecoratorPattern/obj/Debug/netcoreapp2.1/DecoratorPattern.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DecoratorPattern/obj/Debug/netcoreapp2.1/DecoratorPattern.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DecoratorPattern/obj/Debug/netcoreapp2.1/DecoratorPattern.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DecoratorPattern/obj/Debug/netcoreapp2.1/DecoratorPattern.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DecoratorPattern/obj/Debug/netcoreapp2.1/DecoratorPattern.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DecoratorPattern/obj/DecoratorPattern.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DecoratorPattern/obj/DecoratorPattern.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DecoratorPattern/obj/DecoratorPattern.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/DecoratorPattern/obj/DecoratorPattern.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DecoratorPattern/obj/DecoratorPattern.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/DecoratorPattern/obj/DecoratorPattern.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DecoratorPattern/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/DecoratorPattern/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DecoratorPattern/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/DecoratorPattern/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryPattern/bin/Debug/netcoreapp2.1/FactoryPattern.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryPattern/bin/Debug/netcoreapp2.1/FactoryPattern.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryPattern/bin/Debug/netcoreapp2.1/FactoryPattern.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryPattern/bin/Debug/netcoreapp2.1/FactoryPattern.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryPattern/bin/Debug/netcoreapp2.1/FactoryPattern.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryPattern/bin/Debug/netcoreapp2.1/FactoryPattern.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryPattern/obj/Debug/netcoreapp2.1/FactoryPattern.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryPattern/obj/Debug/netcoreapp2.1/FactoryPattern.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryPattern/obj/Debug/netcoreapp2.1/FactoryPattern.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryPattern/obj/Debug/netcoreapp2.1/FactoryPattern.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryPattern/obj/Debug/netcoreapp2.1/FactoryPattern.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryPattern/obj/Debug/netcoreapp2.1/FactoryPattern.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryPattern/obj/Debug/netcoreapp2.1/FactoryPattern.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryPattern/obj/Debug/netcoreapp2.1/FactoryPattern.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryPattern/obj/Debug/netcoreapp2.1/FactoryPattern.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryPattern/obj/Debug/netcoreapp2.1/FactoryPattern.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryPattern/obj/Debug/netcoreapp2.1/FactoryPattern.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryPattern/obj/Debug/netcoreapp2.1/FactoryPattern.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryPattern/obj/FactoryPattern.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryPattern/obj/FactoryPattern.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryPattern/obj/FactoryPattern.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryPattern/obj/FactoryPattern.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryPattern/obj/FactoryPattern.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryPattern/obj/FactoryPattern.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryPattern/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryPattern/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryPattern/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryPattern/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObserverPattern/bin/Debug/netcoreapp2.1/ObserverPattern.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/ObserverPattern/bin/Debug/netcoreapp2.1/ObserverPattern.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObserverPattern/bin/Debug/netcoreapp2.1/ObserverPattern.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ObserverPattern/bin/Debug/netcoreapp2.1/ObserverPattern.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObserverPattern/bin/Debug/netcoreapp2.1/ObserverPattern.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ObserverPattern/bin/Debug/netcoreapp2.1/ObserverPattern.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObserverPattern/obj/Debug/netcoreapp2.1/ObserverPattern.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ObserverPattern/obj/Debug/netcoreapp2.1/ObserverPattern.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObserverPattern/obj/Debug/netcoreapp2.1/ObserverPattern.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ObserverPattern/obj/Debug/netcoreapp2.1/ObserverPattern.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObserverPattern/obj/Debug/netcoreapp2.1/ObserverPattern.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ObserverPattern/obj/Debug/netcoreapp2.1/ObserverPattern.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObserverPattern/obj/Debug/netcoreapp2.1/ObserverPattern.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ObserverPattern/obj/Debug/netcoreapp2.1/ObserverPattern.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObserverPattern/obj/Debug/netcoreapp2.1/ObserverPattern.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ObserverPattern/obj/Debug/netcoreapp2.1/ObserverPattern.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObserverPattern/obj/Debug/netcoreapp2.1/ObserverPattern.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ObserverPattern/obj/Debug/netcoreapp2.1/ObserverPattern.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObserverPattern/obj/ObserverPattern.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ObserverPattern/obj/ObserverPattern.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObserverPattern/obj/ObserverPattern.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ObserverPattern/obj/ObserverPattern.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObserverPattern/obj/ObserverPattern.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ObserverPattern/obj/ObserverPattern.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObserverPattern/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ObserverPattern/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObserverPattern/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ObserverPattern/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SinglePattern/bin/Debug/netcoreapp2.1/SinglePattern.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/SinglePattern/bin/Debug/netcoreapp2.1/SinglePattern.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SinglePattern/bin/Debug/netcoreapp2.1/SinglePattern.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SinglePattern/bin/Debug/netcoreapp2.1/SinglePattern.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SinglePattern/bin/Debug/netcoreapp2.1/SinglePattern.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SinglePattern/bin/Debug/netcoreapp2.1/SinglePattern.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SinglePattern/obj/Debug/netcoreapp2.1/SinglePattern.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SinglePattern/obj/Debug/netcoreapp2.1/SinglePattern.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SinglePattern/obj/Debug/netcoreapp2.1/SinglePattern.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SinglePattern/obj/Debug/netcoreapp2.1/SinglePattern.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SinglePattern/obj/Debug/netcoreapp2.1/SinglePattern.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SinglePattern/obj/Debug/netcoreapp2.1/SinglePattern.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SinglePattern/obj/Debug/netcoreapp2.1/SinglePattern.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SinglePattern/obj/Debug/netcoreapp2.1/SinglePattern.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SinglePattern/obj/Debug/netcoreapp2.1/SinglePattern.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SinglePattern/obj/Debug/netcoreapp2.1/SinglePattern.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SinglePattern/obj/Debug/netcoreapp2.1/SinglePattern.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SinglePattern/obj/Debug/netcoreapp2.1/SinglePattern.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SinglePattern/obj/SinglePattern.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SinglePattern/obj/SinglePattern.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SinglePattern/obj/SinglePattern.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/SinglePattern/obj/SinglePattern.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SinglePattern/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/SinglePattern/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StrategyPattern/bin/Debug/netcoreapp2.1/StrategyPattern.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/StrategyPattern/bin/Debug/netcoreapp2.1/StrategyPattern.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StrategyPattern/bin/Debug/netcoreapp2.1/StrategyPattern.dll" beforeDir="false" afterPath="$PROJECT_DIR$/StrategyPattern/bin/Debug/netcoreapp2.1/StrategyPattern.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StrategyPattern/bin/Debug/netcoreapp2.1/StrategyPattern.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/StrategyPattern/bin/Debug/netcoreapp2.1/StrategyPattern.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StrategyPattern/obj/Debug/netcoreapp2.1/StrategyPattern.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/StrategyPattern/obj/Debug/netcoreapp2.1/StrategyPattern.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StrategyPattern/obj/Debug/netcoreapp2.1/StrategyPattern.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/StrategyPattern/obj/Debug/netcoreapp2.1/StrategyPattern.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StrategyPattern/obj/Debug/netcoreapp2.1/StrategyPattern.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/StrategyPattern/obj/Debug/netcoreapp2.1/StrategyPattern.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StrategyPattern/obj/Debug/netcoreapp2.1/StrategyPattern.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/StrategyPattern/obj/Debug/netcoreapp2.1/StrategyPattern.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StrategyPattern/obj/Debug/netcoreapp2.1/StrategyPattern.dll" beforeDir="false" afterPath="$PROJECT_DIR$/StrategyPattern/obj/Debug/netcoreapp2.1/StrategyPattern.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StrategyPattern/obj/Debug/netcoreapp2.1/StrategyPattern.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/StrategyPattern/obj/Debug/netcoreapp2.1/StrategyPattern.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StrategyPattern/obj/StrategyPattern.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/StrategyPattern/obj/StrategyPattern.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StrategyPattern/obj/StrategyPattern.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/StrategyPattern/obj/StrategyPattern.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StrategyPattern/obj/StrategyPattern.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/StrategyPattern/obj/StrategyPattern.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StrategyPattern/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/StrategyPattern/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StrategyPattern/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/StrategyPattern/obj/project.packagespec.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +111,26 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/CommandPattern/ComplexRemoteControl/Stereo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CommandPattern/ComplexRemoteControl/IDoor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CommandPattern/ComplexRemoteControl/LightOffCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CommandPattern/ComplexRemoteControl/CeilingFanOffCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CommandPattern/ComplexRemoteControl/IStereo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CommandPattern/ComplexRemoteControl/Door.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CommandPattern/ComplexRemoteControl/Light.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CommandPattern/ComplexRemoteControl/IFan.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CommandPattern/ComplexRemoteControl/LightOnCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CommandPattern/ComplexRemoteControl/StereoOnWithCDCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CommandPattern/ComplexRemoteControl/CeilingFanOnCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CommandPattern/ComplexRemoteControl/NoCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CommandPattern/ComplexRemoteControl/CeilingFan.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CommandPattern/ComplexRemoteControl/RemoteControl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CommandPattern/ComplexRemoteControl/ILight.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CommandPattern/ComplexRemoteControl/ICommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CommandPattern/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CommandPattern/ComplexRemoteControl/StereoOffWithCdCommand.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -30,6 +143,22 @@
         <option value="$PROJECT_DIR$/FactoryPattern/CheesePizza.cs" />
         <option value="$PROJECT_DIR$/FactoryPattern/V1/PizzaStore.cs" />
         <option value="$PROJECT_DIR$/FactoryPattern/V1/Pizza.cs" />
+        <option value="$PROJECT_DIR$/CommandPattern/ComplexRemoteControl/ICommand.cs" />
+        <option value="$PROJECT_DIR$/CommandPattern/ComplexRemoteControl/LightOnCommand.cs" />
+        <option value="$PROJECT_DIR$/CommandPattern/ComplexRemoteControl/NoCommand.cs" />
+        <option value="$PROJECT_DIR$/CommandPattern/ComplexRemoteControl/StereoOffWithCdCommand.cs" />
+        <option value="$PROJECT_DIR$/CommandPattern/ComplexRemoteControl/StereoOnWithCDCommand.cs" />
+        <option value="$PROJECT_DIR$/CommandPattern/ComplexRemoteControl/RemoteControl.cs" />
+        <option value="$PROJECT_DIR$/CommandPattern/Program.cs" />
+        <option value="$PROJECT_DIR$/CommandPattern/ComplexRemoteControl/LightOffCommand.cs" />
+        <option value="$PROJECT_DIR$/CommandPattern/ComplexRemoteControl/IFan.cs" />
+        <option value="$PROJECT_DIR$/CommandPattern/ComplexRemoteControl/Light.cs" />
+        <option value="$PROJECT_DIR$/CommandPattern/ComplexRemoteControl/Stereo.cs" />
+        <option value="$PROJECT_DIR$/CommandPattern/ComplexRemoteControl/CeilingFan.cs" />
+        <option value="$PROJECT_DIR$/CommandPattern/ComplexRemoteControl/CeilingFanOnCommand.cs" />
+        <option value="$PROJECT_DIR$/CommandPattern/ComplexRemoteControl/CeilingFanOffCommand.cs" />
+        <option value="$PROJECT_DIR$/CommandPattern/ComplexRemoteControl/IDoor.cs" />
+        <option value="$PROJECT_DIR$/CommandPattern/ComplexRemoteControl/Door.cs" />
       </list>
     </option>
   </component>
@@ -42,10 +171,31 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Rider.SolutionExplorerActivator" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.3" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
-  <component name="RunManager" selected=".NET Project.DecoratorPattern">
+  <component name="RunManager" selected=".NET Project.CommandPattern">
+    <configuration name="CommandPattern" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/CommandPattern/bin/Debug/netcoreapp2.1/CommandPattern.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CommandPattern/bin/Debug/netcoreapp2.1" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/CommandPattern/CommandPattern.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DecoratorPattern" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -61,7 +211,7 @@
       <option name="PROJECT_KIND" value="DotNetCore" />
       <option name="PROJECT_TFM" value="" />
       <method v="2">
-        <option name="Build" />
+        <option name="Build" enabled="true" />
       </method>
     </configuration>
     <configuration name="FactoryPattern" type="DotNetProject" factoryName=".NET Project">
@@ -79,7 +229,7 @@
       <option name="PROJECT_KIND" value="DotNetCore" />
       <option name="PROJECT_TFM" value="" />
       <method v="2">
-        <option name="Build" />
+        <option name="Build" enabled="true" />
       </method>
     </configuration>
     <configuration name="ObserverPattern" type="DotNetProject" factoryName=".NET Project">
@@ -97,7 +247,7 @@
       <option name="PROJECT_KIND" value="DotNetCore" />
       <option name="PROJECT_TFM" value="" />
       <method v="2">
-        <option name="Build" />
+        <option name="Build" enabled="true" />
       </method>
     </configuration>
     <configuration name="StrategyPattern" type="DotNetProject" factoryName=".NET Project">
@@ -115,11 +265,19 @@
       <option name="PROJECT_KIND" value="DotNetCore" />
       <option name="PROJECT_TFM" value="" />
       <method v="2">
-        <option name="Build" />
+        <option name="Build" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Project.CommandPattern" />
+      </list>
+    </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="53d9a651-9771-4905-8079-62839d13efa0" name="Default Changelist" comment="" />
@@ -129,11 +287,12 @@
       <updated>1609909107935</updated>
       <workItem from="1609909128016" duration="597000" />
       <workItem from="1609990236380" duration="2441000" />
+      <workItem from="1611247171354" duration="4885000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="1" />
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
@@ -141,9 +300,90 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="506" y="42" key="RiderGenerateDialog" timestamp="1609991199249">
-      <screen x="0" y="0" width="1366" height="700" />
+    <state width="1876" height="358" key="GridCell.Tab.0.bottom" timestamp="1611253900533">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="358" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1611253900533" />
+    <state width="1876" height="358" key="GridCell.Tab.0.center" timestamp="1611253900533">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="358" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1611253900533" />
+    <state width="1876" height="358" key="GridCell.Tab.0.left" timestamp="1611253900533">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="358" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1611253900533" />
+    <state width="1876" height="358" key="GridCell.Tab.0.right" timestamp="1611253900533">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="358" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1611253900533" />
+    <state width="1876" height="358" key="GridCell.Tab.1.bottom" timestamp="1611253900533">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="358" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1611253900533" />
+    <state width="1876" height="358" key="GridCell.Tab.1.center" timestamp="1611253900533">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="358" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1611253900533" />
+    <state width="1876" height="358" key="GridCell.Tab.1.left" timestamp="1611253900533">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="358" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1611253900533" />
+    <state width="1876" height="358" key="GridCell.Tab.1.right" timestamp="1611253900533">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="358" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1611253900533" />
+    <state width="1876" height="358" key="GridCell.Tab.2.bottom" timestamp="1611253900534">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="358" key="GridCell.Tab.2.bottom/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1611253900534" />
+    <state width="1876" height="358" key="GridCell.Tab.2.center" timestamp="1611253900533">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="358" key="GridCell.Tab.2.center/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1611253900533" />
+    <state width="1876" height="358" key="GridCell.Tab.2.left" timestamp="1611253900533">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="358" key="GridCell.Tab.2.left/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1611253900533" />
+    <state width="1876" height="358" key="GridCell.Tab.2.right" timestamp="1611253900533">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="358" key="GridCell.Tab.2.right/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1611253900533" />
+    <state width="1876" height="358" key="GridCell.Tab.3.bottom" timestamp="1611253900534">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="358" key="GridCell.Tab.3.bottom/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1611253900534" />
+    <state width="1876" height="358" key="GridCell.Tab.3.center" timestamp="1611253900534">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="358" key="GridCell.Tab.3.center/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1611253900534" />
+    <state width="1876" height="358" key="GridCell.Tab.3.left" timestamp="1611253900534">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="358" key="GridCell.Tab.3.left/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1611253900534" />
+    <state width="1876" height="358" key="GridCell.Tab.3.right" timestamp="1611253900534">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="358" key="GridCell.Tab.3.right/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1611253900534" />
+    <state width="1876" height="358" key="GridCell.Tab.4.bottom" timestamp="1611253900534">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="358" key="GridCell.Tab.4.bottom/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1611253900534" />
+    <state width="1876" height="358" key="GridCell.Tab.4.center" timestamp="1611253900534">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="358" key="GridCell.Tab.4.center/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1611253900534" />
+    <state width="1876" height="358" key="GridCell.Tab.4.left" timestamp="1611253900534">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="358" key="GridCell.Tab.4.left/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1611253900534" />
+    <state width="1876" height="358" key="GridCell.Tab.4.right" timestamp="1611253900534">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="358" key="GridCell.Tab.4.right/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1611253900534" />
+    <state x="711" y="62" key="RiderGenerateDialog" timestamp="1611261823702">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="506" y="42" key="RiderGenerateDialog/0.0.1366.700@0.0.1366.700" timestamp="1609991199249" />
+    <state x="711" y="62" key="RiderGenerateDialog/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1611261823702" />
   </component>
 </project>

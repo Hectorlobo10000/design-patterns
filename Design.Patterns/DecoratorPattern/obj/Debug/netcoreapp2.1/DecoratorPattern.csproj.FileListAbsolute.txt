@@ -9,3 +9,4 @@ C:\projects\design-patterns\Design.Patterns\DecoratorPattern\obj\Debug\netcoreap
 C:\projects\design-patterns\Design.Patterns\DecoratorPattern\obj\Debug\netcoreapp2.1\DecoratorPattern.AssemblyInfo.cs
 C:\projects\design-patterns\Design.Patterns\DecoratorPattern\obj\Debug\netcoreapp2.1\DecoratorPattern.dll
 C:\projects\design-patterns\Design.Patterns\DecoratorPattern\obj\Debug\netcoreapp2.1\DecoratorPattern.pdb
+C:\projects\design-patterns\Design.Patterns\DecoratorPattern\obj\Debug\netcoreapp2.1\DecoratorPattern.genruntimeconfig.cache

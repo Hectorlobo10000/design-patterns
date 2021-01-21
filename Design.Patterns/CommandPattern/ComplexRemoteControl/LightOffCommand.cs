@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace CommandPattern.ComplexRemoteControl
+﻿namespace CommandPattern.ComplexRemoteControl
 {
     public class LightOffCommand : ICommand
     {
@@ -14,6 +12,11 @@ namespace CommandPattern.ComplexRemoteControl
         public void Execute()
         {
             _light.Off();
+        }
+
+        public void Undo()
+        {
+            _light.On();
         }
     }
 }

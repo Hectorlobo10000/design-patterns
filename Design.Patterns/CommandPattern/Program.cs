@@ -22,31 +22,31 @@ namespace CommandPattern
              //remote.ButtonWasPressed();
 
 
-             /*
-              * Remote control
-              */
-              RemoteControl remoteControl = new RemoteControl();
+            /*
+            * Remote control
+            */
+            /*RemoteControl remoteControl = new RemoteControl();
 
-              ILight livingRoomLight = new Light("Living Room");
+            ILight livingRoomLight = new Light("Living Room");
 
-              ILight kitchenLight = new Light("Kitchen");
+            ILight kitchenLight = new Light("Kitchen");
 
-              IStereo stereo = new Stereo("Living Room");
+            IStereo stereo = new Stereo("Living Room");
 
-              LightOnCommand lightOnCommand = new LightOnCommand(livingRoomLight);
-              LightOffCommand lightOffCommand = new LightOffCommand(livingRoomLight);
-              
-              LightOnCommand kitcheLightOnCommand = new LightOnCommand(kitchenLight);
-              LightOffCommand kitchenOffCommand = new LightOffCommand(kitchenLight);
+            LightOnCommand lightOnCommand = new LightOnCommand(livingRoomLight);
+            LightOffCommand lightOffCommand = new LightOffCommand(livingRoomLight);
 
-              StereoOnWithCdCommand stereoOnWithCdCommand = new StereoOnWithCdCommand(stereo);
-              StereoOffWithCdCommand stereoOffWithCdCommand = new StereoOffWithCdCommand(stereo);
+            LightOnCommand kitcheLightOnCommand = new LightOnCommand(kitchenLight);
+            LightOffCommand kitchenOffCommand = new LightOffCommand(kitchenLight);
 
-              remoteControl.SetCommand(0, lightOnCommand, lightOffCommand);
-              remoteControl.SetCommand(1, kitcheLightOnCommand, kitchenOffCommand);
-              remoteControl.SetCommand(2, stereoOnWithCdCommand, stereoOffWithCdCommand);
+            StereoOnWithCdCommand stereoOnWithCdCommand = new StereoOnWithCdCommand(stereo);
+            StereoOffWithCdCommand stereoOffWithCdCommand = new StereoOffWithCdCommand(stereo);
 
-              Console.WriteLine(remoteControl);
+            remoteControl.SetCommand(0, lightOnCommand, lightOffCommand);
+            remoteControl.SetCommand(1, kitcheLightOnCommand, kitchenOffCommand);
+            remoteControl.SetCommand(2, stereoOnWithCdCommand, stereoOffWithCdCommand);
+
+            Console.WriteLine(remoteControl);
 
             remoteControl.OnButtonWasPushed(0);
             remoteControl.OffButtonWasPushed(0);
@@ -55,7 +55,32 @@ namespace CommandPattern
             remoteControl.OffButtonWasPushed(1);
 
             remoteControl.OnButtonWasPushed(2);
-            remoteControl.OffButtonWasPushed(2);
+            remoteControl.OffButtonWasPushed(2);*/
+            
+            /*
+             * Remote control with undo
+             */
+            
+            RemoteControl remoteControl = new RemoteControl();
+            
+            ILight livingRoomLight = new Light("Living room");
+            
+            LightOnCommand lightOnCommand = new LightOnCommand(livingRoomLight);
+            LightOffCommand lightOffCommand = new LightOffCommand(livingRoomLight);
+            
+            remoteControl.SetCommand(0, lightOnCommand, lightOffCommand);
+            
+            remoteControl.OnButtonWasPushed(0);
+            remoteControl.OffButtonWasPushed(0);
+            Console.WriteLine(remoteControl);
+            
+            remoteControl.UndoButtonWasPushed();
+            remoteControl.OffButtonWasPushed(0);
+            remoteControl.OnButtonWasPushed(0);
+            Console.WriteLine(remoteControl);
+            
+            remoteControl.UndoButtonWasPushed();
+            
 
             Console.ReadKey();
         }

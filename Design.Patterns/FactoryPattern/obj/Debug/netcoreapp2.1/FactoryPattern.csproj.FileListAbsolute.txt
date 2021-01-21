@@ -9,3 +9,4 @@ C:\projects\design-patterns\Design.Patterns\FactoryPattern\obj\Debug\netcoreapp2
 C:\projects\design-patterns\Design.Patterns\FactoryPattern\obj\Debug\netcoreapp2.1\FactoryPattern.AssemblyInfo.cs
 C:\projects\design-patterns\Design.Patterns\FactoryPattern\obj\Debug\netcoreapp2.1\FactoryPattern.dll
 C:\projects\design-patterns\Design.Patterns\FactoryPattern\obj\Debug\netcoreapp2.1\FactoryPattern.pdb
+C:\projects\design-patterns\Design.Patterns\FactoryPattern\obj\Debug\netcoreapp2.1\FactoryPattern.genruntimeconfig.cache

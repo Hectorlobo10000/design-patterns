@@ -9,3 +9,4 @@ C:\projects\design-patterns\Design.Patterns\StrategyPattern\obj\Debug\netcoreapp
 C:\projects\design-patterns\Design.Patterns\StrategyPattern\obj\Debug\netcoreapp2.1\StrategyPattern.AssemblyInfo.cs
 C:\projects\design-patterns\Design.Patterns\StrategyPattern\obj\Debug\netcoreapp2.1\StrategyPattern.dll
 C:\projects\design-patterns\Design.Patterns\StrategyPattern\obj\Debug\netcoreapp2.1\StrategyPattern.pdb
+C:\projects\design-patterns\Design.Patterns\StrategyPattern\obj\Debug\netcoreapp2.1\StrategyPattern.genruntimeconfig.cache

@@ -4,20 +4,20 @@ namespace CommandPattern.ComplexRemoteControl
 {
     public class Light : ILight
     {
-        private string _livingRoom;
-        public Light(string livingRoom)
+        private string _slot;
+        public Light(string slot)
         {
-            _livingRoom = livingRoom;
+            _slot = slot;
         }
 
         public void On()
         {
-            Console.WriteLine($"{_livingRoom} Light is on.");
+            Console.WriteLine($"{_slot} Light is on.");
         }
 
         public void Off()
         {
-            Console.WriteLine($"{_livingRoom} Light is off.");
+            Console.WriteLine($"{_slot} Light is off.");
         }
     }
 }

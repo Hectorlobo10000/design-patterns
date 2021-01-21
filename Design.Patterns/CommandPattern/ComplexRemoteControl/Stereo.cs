@@ -4,31 +4,31 @@ namespace CommandPattern.ComplexRemoteControl
 {
     public class Stereo : IStereo
     {
-        private string _livingRoom;
+        private string _slot;
 
-        public Stereo(string livingRoom)
+        public Stereo(string slot)
         {
-            _livingRoom = livingRoom;
+            _slot = slot;
         }
 
         public void On()
         {
-            Console.WriteLine($"{_livingRoom} stereo is on.");
+            Console.WriteLine($"{_slot} stereo is on.");
         }
 
         public void SetCD()
         {
-            Console.WriteLine($"{_livingRoom} stereo insert CD.");
+            Console.WriteLine($"{_slot} stereo insert CD.");
         }
 
         public void SetVolume(int value)
         {
-            Console.WriteLine($"{_livingRoom} stereo volumen is {value}.");
+            Console.WriteLine($"{_slot} stereo volumen is {value}.");
         }
 
         public void Off()
         {
-            Console.WriteLine($"{_livingRoom} stereo is off.");
+            Console.WriteLine($"{_slot} stereo is off.");
         }
     }
 }
